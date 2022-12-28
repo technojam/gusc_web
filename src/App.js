@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-    <div>GUSC WEB</div>
+    <div className='bg-red-600 text-3xl text-center'>GUSC WEB</div>  //sample code for tailwindcss
   );
 }
 
