@@ -1,7 +1,8 @@
 import React from 'react'
+import { Event } from '../Components/Event'
 
 export const Hero = () => {
   return (
-    <div>Hero</div>
+    <Event/>
   )
 }

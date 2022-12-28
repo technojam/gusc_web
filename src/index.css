@@ -1,13 +1,92 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap");
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+/* Event Section  */
+
+/* Title Section  */
+
+.event-title-section {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 30px 120px;
+}
+
+.event-name {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 35.9032px;
+  line-height: 64px;
+  letter-spacing: 0.015em;
+  color: #000000;
+}
+
+.event-date {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30.3526px;
+  line-height: 41px;
+  letter-spacing: 0.015em;
+  color: #000000;
+}
+
+/* Content Section */
+
+.event-content {
+  padding: 40px 120px;
+}
+
+.event-content-row {
+  display: flex;
+  gap: 20px;
+}
+
+.event-column .right {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+.event-content-description {
+  display: flex;
+  align-items: center;
+  height: 100%;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 41px;
+  letter-spacing: 0.015em;
+  color: #000000;
+}
+
+.event-hr{
+  width: 80%;
+  margin: auto;
+  border: 2px solid #66646498;
+}
+
+.event-image{
+  width: 480px;
 }
