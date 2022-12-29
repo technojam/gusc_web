@@ -6,7 +6,7 @@ function LatestEventComponent() {
       <div className="grid md:grid-cols-[40%_60%] w-[80%]">
         <div className="flex flex-col md:gap-8 h-[600px] ">
           <h1 className="text-3xl font-bold">Our Latest Events</h1>
-          <div className="flex flex-col justify-end h-[100%] relative text-black bg-[#ffffff90]">
+          <div className="flex flex-col justify-end h-[100%] relative text-black bg-[#ffffff90] shadow-[0_5px_10px_rgba(0,0,0.1)]">
             <div className="carousel w-full h-[80%]">
               <div id="slide1" className="carousel-item relative w-full">
                 <img
@@ -106,9 +106,9 @@ function LatestEventComponent() {
               <img
                 src="https://images.unsplash.com/photo-1671180881490-8af6e9c3eaf1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY3MjI0OTk3MQ&ixlib=rb-4.0.3&q=80&w=1080"
                 alt="sample"
-                className="w-[70%]"
+                className="w-[70%] shadow-[0_5px_10px_rgba(0,0,0.1)]"
               />
-              <div className="flex flex-col z-10 p-4 bg-white text-black w-[70%]">
+              <div className="flex flex-col z-10 p-4 bg-white text-black w-[70%] shadow-[0_5px_10px_rgba(0,0,0.1)]">
                 <h1 className="font-extrabold text-xl">NASA Space Apps</h1>
                 <p>Date</p>
               </div>
@@ -119,9 +119,9 @@ function LatestEventComponent() {
               <img
                 src="https://images.unsplash.com/photo-1671180881490-8af6e9c3eaf1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY3MjI0OTk3MQ&ixlib=rb-4.0.3&q=80&w=1080"
                 alt="sample"
-                className="w-[70%]"
+                className="w-[70%] shadow-[0_5px_10px_rgba(0,0,0.1)]"
               />
-              <div className="flex flex-col z-10 p-4 bg-white text-black w-[70%]">
+              <div className="flex flex-col z-10 p-4 bg-white text-black w-[70%] shadow-[0_5px_10px_rgba(0,0,0.1)]">
                 <h1 className="font-extrabold text-xl">Fresher's</h1>
                 <p>Date</p>
               </div>
@@ -132,9 +132,9 @@ function LatestEventComponent() {
               <img
                 src="https://images.unsplash.com/photo-1671180881490-8af6e9c3eaf1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY3MjI0OTk3MQ&ixlib=rb-4.0.3&q=80&w=1080"
                 alt="sample"
-                className="w-[70%]"
+                className="w-[70%] shadow-[0_5px_10px_rgba(0,0,0.1)]"
               />
-              <div className="flex flex-col z-10 p-4 bg-white text-black w-[70%]">
+              <div className="flex flex-col z-10 p-4 bg-white text-black w-[70%] shadow-[0_5px_10px_rgba(0,0,0.1)]">
                 <h1 className="font-extrabold text-xl">Prarambh</h1>
                 <p>Date</p>
               </div>
@@ -145,9 +145,9 @@ function LatestEventComponent() {
               <img
                 src="https://images.unsplash.com/photo-1671180881490-8af6e9c3eaf1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY3MjI0OTk3MQ&ixlib=rb-4.0.3&q=80&w=1080"
                 alt="sample"
-                className="w-[70%]"
+                className="w-[70%] shadow-[0_5px_10px_rgba(0,0,0.1)]"
               />
-              <div className="flex flex-col z-10 p-4 bg-white text-black w-[70%]">
+              <div className="flex flex-col z-10 p-4 bg-white text-black w-[70%] shadow-[0_5px_10px_rgba(0,0,0.1)]">
                 <h1 className="font-extrabold text-xl">Dexterix 3.0</h1>
                 <p>Date</p>
               </div>
