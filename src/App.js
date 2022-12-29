@@ -1,9 +1,12 @@
 import React from 'react';
 import './App.css';
+import ClubComponent from './Components/ClubComponent';
 
 function App() {
   return (
-    <div className='bg-red-600 text-3xl text-center'>GUSC WEB</div>  //sample code for tailwindcss
+    <div className='h-32'>
+      <ClubComponent />
+    </div>
   );
 }
 
