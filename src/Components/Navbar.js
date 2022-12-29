@@ -5,7 +5,7 @@ import {
 function Navbar() {
   return (
     <>
-      <nav className="navbar navbar-expand-lg navbar-light bg-light">
+      <nav style={{zindex:"-1"}} className="navbar navbar-expand-lg navbar-light bg-light">
         <Link className="navbar-brand" to="/">Galgotias University Logo</Link>
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
           <span className="navbar-toggler-icon"></span>

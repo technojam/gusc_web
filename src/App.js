@@ -9,6 +9,7 @@ import {
   Routes,
   Route
 } from "react-router-dom";
+import Achievements from './Components/Achievements';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       {/* <ClubComponent /> */}
       <Navbar/>
       <Hero/>
+      <Achievements/>
       <ClubInfo />
       <LatestEventComponent />
     </div>
