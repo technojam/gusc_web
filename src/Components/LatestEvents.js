@@ -1,6 +1,6 @@
 import React from "react";
 
-function EventComponent() {
+function LatestEventComponent() {
   return (
     <section className="bg-red-700 relative w-[100vw] h-[100vh] flex justify-center items-center text-white">
       <div className="grid md:grid-cols-[40%_60%] w-[80%]">
@@ -159,4 +159,4 @@ function EventComponent() {
   );
 }
 
-export default EventComponent;
+export default LatestEventComponent;
