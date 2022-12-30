@@ -3,6 +3,7 @@ import './App.css';
 import ClubComponent from './Components/ClubComponent';
 import ClubInfo from './Pages/ClubInfo';
 import LatestEventComponent from './Components/LatestEvents'
+import Core from './Components/CoreTeam'
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       {/* <ClubComponent /> */}
       <ClubInfo />
       <LatestEventComponent />
+      <Core/>
     </div>
   );
 }
