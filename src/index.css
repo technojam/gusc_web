@@ -22,6 +22,10 @@ code {
 
 /* Event Section  */
 
+.event-section{
+  height: 100vh;
+}
+
 /* Title Section  */
 
 .event-title-section {
