@@ -1,18 +1,16 @@
 import React from 'react'
-import { Event } from '../Components/Event'
-import ClubComponent from '../Components/ClubComponent';
-import ClubInfo from './ClubInfo';
-import LatestEventComponent from '../Components/LatestEvents'
-
-
-
-export default function Hero() {
+import '../App.css';
+function Hero() {
   return (
     <>
-    <ClubInfo />
-    <ClubComponent/>
-    <Event/>
-    <LatestEventComponent />
-  </>
+      <div style={{backgroundColor:"#A41A2A",height:"550px", overflow:"hidden"}}>
+      <div className="rectbox"></div>
+      <div className="dsbox"></div>
+      <h1 className='G-Text'>Galgotias University STUDENT COUNCIL </h1>
+
+      </div>    
+    </>
   )
 }
+
+export default Hero
