@@ -1,7 +1,17 @@
 import React from 'react'
+import ClubComponent from '../Components/ClubComponent';
+import ClubInfo from './ClubInfo';
+import LatestEventComponent from '../Components/LatestEvents'
 
-export const Hero = () => {
+
+
+export default function Hero() {
   return (
-    <div>Hero</div>
+    <>
+   
+    <ClubInfo />
+    <ClubComponent/>
+    <LatestEventComponent />
+  </>
   )
 }
