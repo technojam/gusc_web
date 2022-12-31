@@ -10,7 +10,7 @@ import {
   Route
 } from "react-router-dom";
 import Achievements from './Components/Achievements';
-
+import Core from './Components/CoreTeam'
 function App() {
   return (
     <div className='h-32'>
@@ -20,8 +20,10 @@ function App() {
       <Achievements/>
       <ClubInfo />
       <LatestEventComponent />
+      <Core/>
     </div>
   );
 }
 
 export default App;
+

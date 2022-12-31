@@ -1,6 +1,5 @@
 import React from 'react'
 import '../App.css';
-
 function Hero() {
   return (
     <>
@@ -9,8 +8,7 @@ function Hero() {
       <div className="dsbox"></div>
       <h1 className='G-Text'>Galgotias University STUDENT COUNCIL </h1>
 
-      </div>
-      
+      </div>    
     </>
   )
 }
