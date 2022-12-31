@@ -90,3 +90,6 @@ code {
 .event-image{
   width: 480px;
 }
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

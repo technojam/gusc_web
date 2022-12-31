@@ -1,11 +1,15 @@
 import React from 'react';
 import './App.css';
-import { Hero } from './Pages/Hero';
+import Hero from './Pages/Hero';
+
 
 function App() {
   return (
-    <Hero/>
+    <div className='h-32'>
+      <Hero/>
+    </div>
   );
 }
 
 export default App;
+
