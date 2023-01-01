@@ -43,7 +43,7 @@ export default function Core() {
     ]);
   return (
     <div >  
-      <section>
+      <section className='section' style={section}>
         <div className="container" style={container}>
             <h1 style={heading}>CORE TEAM</h1>
             <div className="cards" style={card1}>
@@ -67,7 +67,12 @@ export default function Core() {
   )
 }
 
+const section={
+    backgroundColor:"white",
+    width:"100vw"
+}
 const container={
+    backgroundColor:"white",
     maxWidth: "960px",
     margin: "0px auto 20px auto",
     //display: "block",
@@ -100,11 +105,10 @@ const card2={
 
 const info={
     textAlign: "center",
+    color:'black',
     lineHeight: "1.8",
     fontSize: "15px",
-    fontFamily: "Arial, Helvetica, sans-serif ",
-    
-    
+    fontFamily: "Arial, Helvetica, sans-serif ",   
 }
  const image1={
     width: "200px",

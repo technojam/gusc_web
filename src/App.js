@@ -3,6 +3,8 @@ import './App.css';
 import ClubComponent from './Components/ClubComponent';
 import ClubInfo from './Pages/ClubInfo';
 import LatestEventComponent from './Components/LatestEvents'
+import Core from './Components/CoreTeam'
+import Footer from './Components/Footer';
 import Hero from './Pages/Hero';
 import Navbar from './Components/Navbar';
 import {
@@ -21,6 +23,8 @@ function App() {
       <ClubInfo />
       <LatestEventComponent />
       <Core/>
+      <Footer/>
+      <Hero/>
     </div>
   );
 }
