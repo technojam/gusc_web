@@ -12,7 +12,6 @@ import {
   Route
 } from "react-router-dom";
 import Achievements from './Components/Achievements';
-import Core from './Components/CoreTeam'
 function App() {
   return (
     <div className='h-32'>
@@ -24,7 +23,6 @@ function App() {
       <LatestEventComponent />
       <Core/>
       <Footer/>
-      <Hero/>
     </div>
   );
 }
