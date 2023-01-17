@@ -1,7 +1,16 @@
 import React from 'react'
-
-export const Hero = () => {
+import '../App.css';
+function Hero() {
   return (
-    <div>Hero</div>
+    <>
+      <div style={{backgroundColor:"#A41A2A",height:"550px", overflow:"hidden"}}>
+      <div className="rectbox"></div>
+      <div className="dsbox"></div>
+      <h1 className='G-Text'>Galgotias University STUDENT COUNCIL </h1>
+
+      </div>    
+    </>
   )
 }
+
+export default Hero

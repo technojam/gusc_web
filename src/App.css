@@ -32,7 +32,100 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
 }
+
+
+/* sauravpianist css */
+.dsbox {
+  background-color: #A41A2A;
+  width: 650px;
+  height: 650px;
+  border-radius: 0px 0px 75px 0px;
+  transform: rotate(-45deg);
+  translate: -150px -350px;
+  z-index: -1;
+  box-shadow: -10px -10px 60px rgb(41, 39, 39);
+}
+
+.G-Text {
+  position: absolute;
+  width: 736px;
+  height: 485px;
+  left: 90px;
+  top: 104px;
+  font-family: 'Helvetica';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 90px;
+  line-height: 95px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.075em;
+  color: #FFFFFF;
+
+}
+
+.A-Text {
+  position: relative;
+  top: 20px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 60px;
+  line-height: 90px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  letter-spacing: 0.015em;
+  color: #A51828;
+}
+
+.rectbox {
+  background-color: #790815;
+  width: 500px;
+  height: 300px;
+  border: 10px solid #FFFFFF;
+  box-shadow: -1px -1px 50px rgb(41, 39, 39);
+  translate: 700px 120px;
+  z-index: 50;
+}
+
+.card-body>h1 {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 50px;
+  line-height: 85px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  color: #FFFFFF;
+}
+
+.card-body>h2 {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 100px;
+  display: flex;
+  bottom: 40px;
+  position: relative;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  color: #FFFFFF;
+}
+
+.card {
+  border-radius: 0px;
+  margin-bottom: 80px;
+}
+
+/* css END FOR hero and Achievements Page */
