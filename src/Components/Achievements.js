@@ -3,7 +3,7 @@ import React from 'react'
 function Achievements() {
   return (
     <>
-      <h1 className='A-Text'>Our Achievements</h1>
+      <h1 className='A-Text text-white'>Our Achievements</h1>
       <div style={{ marginTop: "55px" }}>
         <div class="container mx-5 my-8" >
           <div class="row">
