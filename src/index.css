@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
 }
 
 *,
@@ -22,7 +23,7 @@ code {
 
 /* Event Section  */
 
-.event-section{
+.event-section {
   height: 100vh;
 }
 
@@ -85,13 +86,13 @@ code {
   color: #000000;
 }
 
-.event-hr{
+.event-hr {
   width: 80%;
   margin: auto;
   border: 2px solid #66646498;
 }
 
-.event-image{
+.event-image {
   width: 480px;
 }
 @tailwind base;
