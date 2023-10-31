@@ -1,13 +1,13 @@
 {
     "teams": [
         {
-            "name": "GU Management Team",
+            "team": "GU Management Team",
             "members": [
                 {
+                    "image": "https://ik.imagekit.io/qnbmvykj4/Photp.jpg?updatedAt=1698724217237",
                     "name": "Kartik Das",
                     "programs": [
-                        "B.Tech CSE",
-                        "B.Tech CSE-AI"
+                        "B.Tech CSE"
                     ],
                     "contacts": [
                         "8920623059",
@@ -16,9 +16,9 @@
                     ]
                 },
                 {
+                    "image": "https://ik.imagekit.io/qnbmvykj4/IMG_9037%20-%20Pratham%20Gangwal%201.png?updatedAt=1698724558555",
                     "name": "Pratham Gangwal",
                     "programs": [
-                        "B.Tech CSE",
                         "B.Tech CSE-AI"
                     ],
                     "contacts": [
@@ -30,13 +30,13 @@
             ]
         },
         {
-            "name": "Stage Management Team",
+            "team": "Stage Management Team",
             "members": [
                 {
+                    "image": "https://ik.imagekit.io/qnbmvykj4/Photp.png?updatedAt=1698724556284",
                     "name": "Aashutosh Shah",
                     "programs": [
-                        "B.Tech CSE",
-                        "B.Tech CSE-AI"
+                        "B.Tech CSE"
                     ],
                     "contacts": [
                         "7668641935",
@@ -45,9 +45,9 @@
                     ]
                 },
                 {
+                    "image": "https://ik.imagekit.io/qnbmvykj4/IMG_1143%20-%20Pranav%20Tiwary%201.png?updatedAt=1698724556827",
                     "name": "Pranav Tiwary",
                     "programs": [
-                        "B.Tech CSE",
                         "B.Tech CSE-AI"
                     ],
                     "contacts": [
@@ -59,13 +59,13 @@
             ]
         },
         {
-            "name": "Graphex",
+            "team": "Graphex",
             "members": [
                 {
+                    "image": "https://ik.imagekit.io/qnbmvykj4/1683062555473%201.png?updatedAt=1698725042846",
                     "name": "Devesh Kumar",
                     "programs": [
-                        "B.Tech CSE",
-                        "B.Tech CSE-AI"
+                        "B.Tech CSE"
                     ],
                     "contacts": [
                         "8875697412",
@@ -74,9 +74,9 @@
                     ]
                 },
                 {
+                    "image": "https://ik.imagekit.io/qnbmvykj4/IMG_20230609_043924_900%20-%20Ishita%20Singh%201.png?updatedAt=1698725044314",
                     "name": "Ishita Singh",
                     "programs": [
-                        "B.Tech CSE",
                         "B.Tech CSE-AI"
                     ],
                     "contacts": [
@@ -88,13 +88,13 @@
             ]
         },
         {
-            "name": "Online Promotions",
+            "team": "Online Promotions",
             "members": [
                 {
+                    "image": "https://ik.imagekit.io/qnbmvykj4/IMG_20230620_143943%20-%20Ayush%20Aggarwal%201.png?updatedAt=1698725046606",
                     "name": "Ayush Aggarwal",
                     "programs": [
-                        "B.Tech CSE",
-                        "B.Tech CSE-AI"
+                        "B.Tech CSE"
                     ],
                     "contacts": [
                         "9818382184",
@@ -103,9 +103,9 @@
                     ]
                 },
                 {
+                    "image": "https://ik.imagekit.io/qnbmvykj4/IMG_6431%20-%20karuna%20gupta%201.png?updatedAt=1698725046284",
                     "name": "Karuna Gupta",
                     "programs": [
-                        "B.Tech CSE",
                         "B.Tech CSE-AI"
                     ],
                     "contacts": [
@@ -117,42 +117,41 @@
             ]
         },
         {
-            "name": "Cam Circle",
+            "team": "Cam Circle",
             "members": [
                 {
+                    "image": "https://ik.imagekit.io/qnbmvykj4/694065%20-%20Adarsh%20Devendra%201.png?updatedAt=1698725045199",
                     "name": "Adarsh Devendra",
                     "programs": [
-                        "B.Tech CSE",
-                        "B.Tech CSE-AI"
+                        "B.Tech CSE"
                     ],
                     "contacts": [
                         "9352409591",
                         "ishitamuskaan@gmail.com",
-                        "ITSADARSHDEVENDRA@GMAIL.COM",
-                        "@adarsh_devendra",
-                        "@rajeev_choudhary_mk"
+                        "@adarsh_devendra"
                     ]
                 },
                 {
+                    "image": "",
                     "name": "Rajeev Kumar",
                     "programs": [
-                        "B.Tech CSE",
                         "B.Tech CSE-AI"
                     ],
                     "contacts": [
-                        "ishitamuskaan@gmail.com"
+                        "ishitamuskaan@gmail.com",
+                        "@rajeev_choudhary_mk"
                     ]
                 }
             ]
         },
         {
-            "name": "Sponsorship",
+            "team": "Sponsorship",
             "members": [
                 {
+                    "image": "https://ik.imagekit.io/qnbmvykj4/IMG-20230326-WA0017%20-%20NIKHIL%20JAIN%201.png?updatedAt=1698725047067",
                     "name": "Nikhil Jain",
                     "programs": [
-                        "B.Tech CSE",
-                        "B.Tech CSE-AI"
+                        "B.Tech CSE"
                     ],
                     "contacts": [
                         "7042300378",
@@ -161,9 +160,9 @@
                     ]
                 },
                 {
+                    "image": "https://ik.imagekit.io/qnbmvykj4/IMG-20230729-WA0000%20-%20Vanshika%20Bhardwaj%201.png?updatedAt=1698725049107",
                     "name": "Vanshika Bhardwaj",
                     "programs": [
-                        "B.Tech CSE",
                         "B.Tech CSE-AI"
                     ],
                     "contacts": [
@@ -175,13 +174,13 @@
             ]
         },
         {
-            "name": "Lingo Freaks",
+            "team": "Lingo Freaks",
             "members": [
                 {
+                    "image": "https://ik.imagekit.io/qnbmvykj4/1671603553309%20-%20Anmol%20kriti%201.png?updatedAt=1698725045771",
                     "name": "Anmol Kriti",
                     "programs": [
-                        "B.Tech CSE",
-                        "B.Tech CSE-AI"
+                        "B.Tech CSE"
                     ],
                     "contacts": [
                         "6202662605",
@@ -190,9 +189,9 @@
                     ]
                 },
                 {
+                    "image": "https://ik.imagekit.io/qnbmvykj4/_DSC0325%20-%20Advika%20Gupta%201.png?updatedAt=1698725045536",
                     "name": "Medhya Gupta",
                     "programs": [
-                        "B.Tech CSE",
                         "B.Tech CSE-AI"
                     ],
                     "contacts": [
@@ -204,13 +203,13 @@
             ]
         },
         {
-            "name": "TechnoJam",
+            "team": "TechnoJam",
             "members": [
                 {
+                    "image": "https://ik.imagekit.io/qnbmvykj4/document-vedansh%20-%20Vedansh%20Tripathi%201.png?updatedAt=1698725044698",
                     "name": "Vedansh Tripathi",
                     "programs": [
-                        "B.Tech CSE",
-                        "B.Tech CSE-AI"
+                        "B.Tech CSE"
                     ],
                     "contacts": [
                         "9598157259",
@@ -219,9 +218,9 @@
                     ]
                 },
                 {
+                    "image": "https://ik.imagekit.io/qnbmvykj4/IMG-20230519-WA0023%20-%20Priyangana%20Gupta%201.png?updatedAt=1698725048801",
                     "name": "Priyangana Gupta",
                     "programs": [
-                        "B.Tech CSE",
                         "B.Tech CSE-AI"
                     ],
                     "contacts": [
@@ -233,13 +232,13 @@
             ]
         },
         {
-            "name": "Scintillations",
+            "team": "Scintillations",
             "members": [
                 {
+                    "image": "https://ik.imagekit.io/qnbmvykj4/IMG-20230804-WA0001%20-%20SARTHAK%20SHARMA%201.png?updatedAt=1698725049778",
                     "name": "Sarthak Sharma",
                     "programs": [
-                        "B.Tech CSE",
-                        "B.Tech CSE-AI"
+                        "B.Tech CSE"
                     ],
                     "contacts": [
                         "7455007558",
@@ -248,9 +247,9 @@
                     ]
                 },
                 {
+                    "image": "https://ik.imagekit.io/qnbmvykj4/IMG_1394%20-%20Yashica%20pandey%201.png?updatedAt=1698725044714",
                     "name": "Yashica Pandey",
                     "programs": [
-                        "B.Tech CSE",
                         "B.Tech CSE-AI"
                     ],
                     "contacts": [
@@ -262,13 +261,13 @@
             ]
         },
         {
-            "name": "Actor’s Hub",
+            "team": "Actor’s Hub",
             "members": [
                 {
+                    "image": "https://ik.imagekit.io/qnbmvykj4/IMG_20230907_015510%20-%20HARSH%20RAJ%2021SMCS1010039%201.png?updatedAt=1698726652777",
                     "name": "Harsh Raj",
                     "programs": [
-                        "B.Tech CSE",
-                        "B.Tech CSE-AI"
+                        "B.Tech CSE"
                     ],
                     "contacts": [
                         "7257039815",
@@ -277,9 +276,9 @@
                     ]
                 },
                 {
+                    "image": "https://ik.imagekit.io/qnbmvykj4/IMG_1566%20-%20Dassing%20satya%201.png?updatedAt=1698726652777",
                     "name": "Satya Prakash",
                     "programs": [
-                        "B.Tech CSE",
                         "B.Tech CSE-AI"
                     ],
                     "contacts": [
@@ -291,13 +290,13 @@
             ]
         },
         {
-            "name": "Notveda",
+            "team": "Notveda",
             "members": [
                 {
+                    "image": "https://ik.imagekit.io/qnbmvykj4/1FCF0900-3A33-45DE-A7EA-54282280DCAC%20-%20Aman%20Tyagi%201.png?updatedAt=1698726775344",
                     "name": "Aman Tyagi",
                     "programs": [
-                        "B.Tech CSE",
-                        "B.Tech CSE-AI"
+                        "B.Tech CSE"
                     ],
                     "contacts": [
                         "9927521561",
@@ -306,10 +305,10 @@
                     ]
                 },
                 {
+                    "image": "https://ik.imagekit.io/qnbmvykj4/IMG_20230620_151020%20-%20Rohan%20Sharma%201.png?updatedAt=1698726775349",
                     "name": "Rohan Sharma",
                     "programs": [
-                        "B.Tech CSE",
-                        "B.Tech CSE-AI"
+                        "B.Tech CSE"
                     ],
                     "contacts": [
                         "9557217757",
@@ -320,42 +319,42 @@
             ]
         },
         {
-            "name": "Galgotia's Dance Crew",
+            "team": "Galgotia's Dance Crew",
             "members": [
                 {
+                    "image": "https://ik.imagekit.io/qnbmvykj4/C213BD3C-4E2A-42C1-990B-90237FAC0328%20-%20Adil%20Ali%20khan%201.png?updatedAt=1698760945074",
                     "name": "Adil Khan",
                     "programs": [
-                        "B.Tech CSE",
-                        "B.Tech CSE-AI"
+                        "B.Tech CSE"
                     ],
                     "contacts": [
                         "8757909501",
-                        "8929660588",
                         "ADILALIKHAN04776@GMAIL.COM",
-                        "@adilalikhan123",
-                        "@find_ur_nirvana_"
+                        "@adilalikhan123"
                     ]
                 },
                 {
+                    "image": "https://ik.imagekit.io/qnbmvykj4/IMG_20230908_174339_530%20-%20Aniket%20Karn%201.png?updatedAt=1698760945243",
                     "name": "Albin Devis",
                     "programs": [
-                        "B.Tech CSE",
                         "B.Tech CSE-AI"
                     ],
                     "contacts": [
-                        "ALBINDEVIS0100@GAMIL.COM"
+                        "8929660588",
+                        "ALBINDEVIS0100@GAMIL.COM",
+                        "@find_ur_nirvana_"
                     ]
                 }
             ]
         },
         {
-            "name": "G-Post",
+            "team": "G-Post",
             "members": [
                 {
+                    "image": "https://ik.imagekit.io/qnbmvykj4/IMG-20230224-WA0060%20-%20Akshay%20kumar%201.png?updatedAt=1698761127692",
                     "name": "Akshay Kumar",
                     "programs": [
-                        "B.Tech CSE",
-                        "B.Tech CSE-AI"
+                        "B.Tech CSE"
                     ],
                     "contacts": [
                         "9548684874",
@@ -364,9 +363,9 @@
                     ]
                 },
                 {
+                    "image": "https://ik.imagekit.io/qnbmvykj4/Screenshot_20230908_111938_Instagram%20-%20Khushi%201.png?updatedAt=1698761127480",
                     "name": "Khushi",
                     "programs": [
-                        "B.Tech CSE",
                         "B.Tech CSE-AI"
                     ],
                     "contacts": [
@@ -378,13 +377,13 @@
             ]
         },
         {
-            "name": "Marketing",
+            "team": "Marketing",
             "members": [
                 {
+                    "image": "https://ik.imagekit.io/qnbmvykj4/IMG_3643%20-%20Aryan%20Tyagi%201.png?updatedAt=1698761208696",
                     "name": "Aaryan Tyagi",
                     "programs": [
-                        "B.Tech CSE",
-                        "B.Tech CSE-AI"
+                        "B.Tech CSE"
                     ],
                     "contacts": [
                         "9319760076",
@@ -393,9 +392,9 @@
                     ]
                 },
                 {
+                    "image": "https://ik.imagekit.io/qnbmvykj4/1671818784367%20-%20Hrithik%20Pandey%201.png?updatedAt=1698761208676",
                     "name": "Hrithik Pandey",
                     "programs": [
-                        "B.Tech CSE",
                         "B.Tech CSE-AI"
                     ],
                     "contacts": [
@@ -407,13 +406,13 @@
             ]
         },
         {
-            "name": "Kafila",
+            "team": "Kafila",
             "members": [
                 {
+                    "image": "https://ik.imagekit.io/qnbmvykj4/IMG_0558%20-%20Zuhaib%20subhani%201.png?updatedAt=1698761272483",
                     "name": "Zuhaib Subhani",
                     "programs": [
-                        "B.Tech CSE",
-                        "B.Tech CSE-AI"
+                        "B.Tech CSE"
                     ],
                     "contacts": [
                         "7007634163",
@@ -422,9 +421,9 @@
                     ]
                 },
                 {
+                    "image": "https://ik.imagekit.io/qnbmvykj4/Screenshot_2023-10-21-15-25-18-89_965bbf4d18d205f782c6b8409c5773a4%201.png?updatedAt=1698761272290",
                     "name": "Ritika Singh",
                     "programs": [
-                        "B.Tech CSE",
                         "B.Tech CSE-AI"
                     ],
                     "contacts": [
@@ -436,30 +435,41 @@
             ]
         },
         {
-            "name": "All-Booked",
+            "team": "All-Booked",
             "members": [
                 {
+                    "image": "https://ik.imagekit.io/qnbmvykj4/IMG_20230729_005252%20-%20Ayush%20kumar%20sinha%201.png?updatedAt=1698761347639",
                     "name": "Ayush Kumar Sinha",
                     "programs": [
                         "B.Tech CSE"
                     ],
                     "contacts": [
-                        "ishitamuskaan@gmail.com",
+                        "9919498498",
                         "SINHAAYUSH676@GMAIL.COM",
-                        "@_.solitudeislove",
+                        "@_.solitudeislove"
+                    ]
+                },
+                {
+                    "image": "",
+                    "name": "Shruti Sharma",
+                    "programs": [
+                        "B.Tech CSE-AI"
+                    ],
+                    "contacts": [
+                        "ishitamuskaan@gmail.com",
                         "@shrutii_703"
                     ]
                 }
             ]
         },
         {
-            "name": "Human's of Galgotia's",
+            "team": "Human's of Galgotia's",
             "members": [
                 {
+                    "image": "https://ik.imagekit.io/qnbmvykj4/IMG_20230204_225433_314%20-%20apurv%20mishra%201.png?updatedAt=1698761398577",
                     "name": "Apurv Mishra",
                     "programs": [
-                        "B.Tech CSE",
-                        "B.Tech CSE-AI"
+                        "B.Tech CSE"
                     ],
                     "contacts": [
                         "9412880777",
@@ -468,9 +478,9 @@
                     ]
                 },
                 {
+                    "image": "",
                     "name": "Aditya Mandal",
                     "programs": [
-                        "B.Tech CSE",
                         "B.Tech CSE-AI"
                     ],
                     "contacts": [
@@ -482,13 +492,13 @@
             ]
         },
         {
-            "name": "Frag",
+            "team": "Frag",
             "members": [
                 {
+                    "image": "https://ik.imagekit.io/qnbmvykj4/WhatsApp%20Image%202023-09-07%20at%2021.19%201.png?updatedAt=1698761775367",
                     "name": "Harsh Vyas",
                     "programs": [
-                        "B.Tech CSE",
-                        "B.Tech CSE-AI"
+                        "B.Tech CSE"
                     ],
                     "contacts": [
                         "9560703300",
@@ -497,9 +507,9 @@
                     ]
                 },
                 {
+                    "image": "https://ik.imagekit.io/qnbmvykj4/IMG_8955_Original%20-%20Siddhartha%20Rathore%201.png?updatedAt=1698761775477",
                     "name": "Siddharth Ratana",
                     "programs": [
-                        "B.Tech CSE",
                         "B.Tech CSE-AI"
                     ],
                     "contacts": [
@@ -511,13 +521,13 @@
             ]
         },
         {
-            "name": "Artistico",
+            "team": "Artistico",
             "members": [
                 {
+                    "image": "https://ik.imagekit.io/qnbmvykj4/arpit%20-%20Arpit%201.png?updatedAt=1698761870586",
                     "name": "Arpit Garg",
                     "programs": [
-                        "B.Tech CSE",
-                        "B.Tech CSE-AI"
+                        "B.Tech CSE"
                     ],
                     "contacts": [
                         "6397220369",
@@ -526,9 +536,9 @@
                     ]
                 },
                 {
+                    "image": "https://ik.imagekit.io/qnbmvykj4/IMG_20230729_102624%20-%20anshika%20kalshan%201.png?updatedAt=1698761870715",
                     "name": "Anshika",
                     "programs": [
-                        "B.Tech CSE",
                         "B.Tech CSE-AI"
                     ],
                     "contacts": [
@@ -540,13 +550,13 @@
             ]
         },
         {
-            "name": "Humanity Saviours",
+            "team": "Humanity Saviours",
             "members": [
                 {
+                    "image": "https://ik.imagekit.io/qnbmvykj4/IMG_20230904_222215%20-%20Ayush%20Ranjan%201.png?updatedAt=1698761968109",
                     "name": "Ayush Ranjan",
                     "programs": [
-                        "B.Tech CSE",
-                        "B.Tech CSE-AI"
+                        "B.Tech CSE"
                     ],
                     "contacts": [
                         "8978432162",
@@ -555,9 +565,9 @@
                     ]
                 },
                 {
+                    "image": "https://ik.imagekit.io/qnbmvykj4/WhatsApp%20Image%202023-06-12%20at%2020.45%201.png?updatedAt=1698761968300",
                     "name": "Naina Singh",
                     "programs": [
-                        "B.Tech CSE",
                         "B.Tech CSE-AI"
                     ],
                     "contacts": [
@@ -569,13 +579,13 @@
             ]
         },
         {
-            "name": "Cyber Cell",
+            "team": "Cyber Cell",
             "members": [
                 {
+                    "image": "https://ik.imagekit.io/qnbmvykj4/Picsart_23-09-05_08-55-05-500%20-%20Suvidh%20Kant%201.png?updatedAt=1698762080838",
                     "name": "Suvidh Kant",
                     "programs": [
-                        "B.Tech CSE",
-                        "B.Tech CSE-AI"
+                        "B.Tech CSE"
                     ],
                     "contacts": [
                         "8273198145",
@@ -584,9 +594,9 @@
                     ]
                 },
                 {
+                    "image": "https://ik.imagekit.io/qnbmvykj4/InShot_20230903_003153710~2%20-%20Suman%20Sourav%201.png?updatedAt=1698762080916",
                     "name": "Suman Sourav",
                     "programs": [
-                        "B.Tech CSE",
                         "B.Tech CSE-AI"
                     ],
                     "contacts": [
@@ -598,13 +608,13 @@
             ]
         },
         {
-            "name": "Panache",
+            "team": "Panache",
             "members": [
                 {
+                    "image": "https://ik.imagekit.io/qnbmvykj4/af955c21-01fb-4d06-87ec-4b984d2e1307%20-%20Aayushi%20Pandey%201.png?updatedAt=1698762155341",
                     "name": "Aayushi Pandey",
                     "programs": [
-                        "B.Tech CSE",
-                        "B.Tech CSE-AI"
+                        "B.Tech CSE"
                     ],
                     "contacts": [
                         "7055576550",
@@ -613,9 +623,9 @@
                     ]
                 },
                 {
+                    "image": "https://ik.imagekit.io/qnbmvykj4/Screenshot_20230908_204040_Gallery%20-%20vanshika%20singh%201.png?updatedAt=1698762155377",
                     "name": "Vanshika Singh",
                     "programs": [
-                        "B.Tech CSE",
                         "B.Tech CSE-AI"
                     ],
                     "contacts": [
@@ -627,13 +637,13 @@
             ]
         },
         {
-            "name": "Quizzards",
+            "team": "Quizzards",
             "members": [
                 {
+                    "image": "https://ik.imagekit.io/qnbmvykj4/Snapchat-2141115066%20-%20akshat%20singh%201.png?updatedAt=1698762237236",
                     "name": "Akshat Singh",
                     "programs": [
-                        "B.Tech CSE",
-                        "B.Tech CSE-AI"
+                        "B.Tech CSE"
                     ],
                     "contacts": [
                         "6387562566",
@@ -642,6 +652,7 @@
                     ]
                 },
                 {
+                    "image": "https://ik.imagekit.io/qnbmvykj4/InShot_20230111_215942875%20-%20Yashika%20Tomar%201.png?updatedAt=1698762238426",
                     "name": "Yashika Tomar",
                     "programs": [
                         "B.Tech CSE",
