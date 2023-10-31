@@ -1,0 +1,659 @@
+{
+    "teams": [
+        {
+            "name": "GU Management Team",
+            "members": [
+                {
+                    "name": "Kartik Das",
+                    "programs": [
+                        "B.Tech CSE",
+                        "B.Tech CSE-AI"
+                    ],
+                    "contacts": [
+                        "8920623059",
+                        "KARTIK.21SCSE1140006@GALGOTIASUNIVERSITY.EDU.IN",
+                        "@_.kartik_das._"
+                    ]
+                },
+                {
+                    "name": "Pratham Gangwal",
+                    "programs": [
+                        "B.Tech CSE",
+                        "B.Tech CSE-AI"
+                    ],
+                    "contacts": [
+                        "8865901078",
+                        "prathamofficial414@gmail.com",
+                        "@_.pratham_.8"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Stage Management Team",
+            "members": [
+                {
+                    "name": "Aashutosh Shah",
+                    "programs": [
+                        "B.Tech CSE",
+                        "B.Tech CSE-AI"
+                    ],
+                    "contacts": [
+                        "7668641935",
+                        "aashutoshshah@gmail.com",
+                        "@aashutosh_shah_"
+                    ]
+                },
+                {
+                    "name": "Pranav Tiwary",
+                    "programs": [
+                        "B.Tech CSE",
+                        "B.Tech CSE-AI"
+                    ],
+                    "contacts": [
+                        "9473094746",
+                        "pranavtiwary61@gmail.com",
+                        "@pranavtiwaryofficial"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Graphex",
+            "members": [
+                {
+                    "name": "Devesh Kumar",
+                    "programs": [
+                        "B.Tech CSE",
+                        "B.Tech CSE-AI"
+                    ],
+                    "contacts": [
+                        "8875697412",
+                        "deveshkumar8114@gmail.com",
+                        "@_devesh_8114"
+                    ]
+                },
+                {
+                    "name": "Ishita Singh",
+                    "programs": [
+                        "B.Tech CSE",
+                        "B.Tech CSE-AI"
+                    ],
+                    "contacts": [
+                        "9302831303",
+                        "ishitamuskaan@gmail.com",
+                        "@itzzz_ishitaa"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Online Promotions",
+            "members": [
+                {
+                    "name": "Ayush Aggarwal",
+                    "programs": [
+                        "B.Tech CSE",
+                        "B.Tech CSE-AI"
+                    ],
+                    "contacts": [
+                        "9818382184",
+                        "AA9035701@GMAIL.COM",
+                        "@ayush_aggarwal_07"
+                    ]
+                },
+                {
+                    "name": "Karuna Gupta",
+                    "programs": [
+                        "B.Tech CSE",
+                        "B.Tech CSE-AI"
+                    ],
+                    "contacts": [
+                        "7011292241",
+                        "KARUNA.GUPTA1103@GMAIL.COM",
+                        "@_alpha_lock"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Cam Circle",
+            "members": [
+                {
+                    "name": "Adarsh Devendra",
+                    "programs": [
+                        "B.Tech CSE",
+                        "B.Tech CSE-AI"
+                    ],
+                    "contacts": [
+                        "9352409591",
+                        "ishitamuskaan@gmail.com",
+                        "ITSADARSHDEVENDRA@GMAIL.COM",
+                        "@adarsh_devendra",
+                        "@rajeev_choudhary_mk"
+                    ]
+                },
+                {
+                    "name": "Rajeev Kumar",
+                    "programs": [
+                        "B.Tech CSE",
+                        "B.Tech CSE-AI"
+                    ],
+                    "contacts": [
+                        "ishitamuskaan@gmail.com"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Sponsorship",
+            "members": [
+                {
+                    "name": "Nikhil Jain",
+                    "programs": [
+                        "B.Tech CSE",
+                        "B.Tech CSE-AI"
+                    ],
+                    "contacts": [
+                        "7042300378",
+                        "NJ8407838@GMAIL.COM",
+                        "@jn.rsisofficial"
+                    ]
+                },
+                {
+                    "name": "Vanshika Bhardwaj",
+                    "programs": [
+                        "B.Tech CSE",
+                        "B.Tech CSE-AI"
+                    ],
+                    "contacts": [
+                        "7457000341",
+                        "VANSHIKA.21SCSE1180059@GALGOTIASUNIVERSITY.EDU.IN",
+                        "@_vanshika_bhardwaj"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Lingo Freaks",
+            "members": [
+                {
+                    "name": "Anmol Kriti",
+                    "programs": [
+                        "B.Tech CSE",
+                        "B.Tech CSE-AI"
+                    ],
+                    "contacts": [
+                        "6202662605",
+                        "KAUSIKANMOL21@GMAIL.COM",
+                        "@anmol_kriti"
+                    ]
+                },
+                {
+                    "name": "Medhya Gupta",
+                    "programs": [
+                        "B.Tech CSE",
+                        "B.Tech CSE-AI"
+                    ],
+                    "contacts": [
+                        "6306862009",
+                        "MEDHYAGUPTA@GMAIL.COM",
+                        "@medhyaaa_"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "TechnoJam",
+            "members": [
+                {
+                    "name": "Vedansh Tripathi",
+                    "programs": [
+                        "B.Tech CSE",
+                        "B.Tech CSE-AI"
+                    ],
+                    "contacts": [
+                        "9598157259",
+                        "VEDANSH.TRIPATHI811@GMAIL.COM",
+                        "@_vedansh.tripathi_"
+                    ]
+                },
+                {
+                    "name": "Priyangana Gupta",
+                    "programs": [
+                        "B.Tech CSE",
+                        "B.Tech CSE-AI"
+                    ],
+                    "contacts": [
+                        "9627311165",
+                        "PRIYANGANAGUPTA04@GMAIL.COM",
+                        "@priyangana_gupta_"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Scintillations",
+            "members": [
+                {
+                    "name": "Sarthak Sharma",
+                    "programs": [
+                        "B.Tech CSE",
+                        "B.Tech CSE-AI"
+                    ],
+                    "contacts": [
+                        "7455007558",
+                        "SHARMASARTHAK085@GMAIL.COM",
+                        "@rs_sarthak_03"
+                    ]
+                },
+                {
+                    "name": "Yashica Pandey",
+                    "programs": [
+                        "B.Tech CSE",
+                        "B.Tech CSE-AI"
+                    ],
+                    "contacts": [
+                        "7488543958",
+                        "KYRACHAUHAN91@GMAIL.COM",
+                        "@yaxhica_xo"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Actor’s Hub",
+            "members": [
+                {
+                    "name": "Harsh Raj",
+                    "programs": [
+                        "B.Tech CSE",
+                        "B.Tech CSE-AI"
+                    ],
+                    "contacts": [
+                        "7257039815",
+                        "BABAHARSH288@GMAIL.COM",
+                        "@raj_a_harsh"
+                    ]
+                },
+                {
+                    "name": "Satya Prakash",
+                    "programs": [
+                        "B.Tech CSE",
+                        "B.Tech CSE-AI"
+                    ],
+                    "contacts": [
+                        "8287638004",
+                        "DASSINGSATYA108@GMAIL.COM",
+                        "@dassing_satya"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Notveda",
+            "members": [
+                {
+                    "name": "Aman Tyagi",
+                    "programs": [
+                        "B.Tech CSE",
+                        "B.Tech CSE-AI"
+                    ],
+                    "contacts": [
+                        "9927521561",
+                        "AMANN.TYAGI18@GMAIL.COM",
+                        "@amann.tyagi"
+                    ]
+                },
+                {
+                    "name": "Rohan Sharma",
+                    "programs": [
+                        "B.Tech CSE",
+                        "B.Tech CSE-AI"
+                    ],
+                    "contacts": [
+                        "9557217757",
+                        "ROHANSHARMA03.MAIL@GMAIL.COM",
+                        "@_rohannn.__"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Galgotia's Dance Crew",
+            "members": [
+                {
+                    "name": "Adil Khan",
+                    "programs": [
+                        "B.Tech CSE",
+                        "B.Tech CSE-AI"
+                    ],
+                    "contacts": [
+                        "8757909501",
+                        "8929660588",
+                        "ADILALIKHAN04776@GMAIL.COM",
+                        "@adilalikhan123",
+                        "@find_ur_nirvana_"
+                    ]
+                },
+                {
+                    "name": "Albin Devis",
+                    "programs": [
+                        "B.Tech CSE",
+                        "B.Tech CSE-AI"
+                    ],
+                    "contacts": [
+                        "ALBINDEVIS0100@GAMIL.COM"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "G-Post",
+            "members": [
+                {
+                    "name": "Akshay Kumar",
+                    "programs": [
+                        "B.Tech CSE",
+                        "B.Tech CSE-AI"
+                    ],
+                    "contacts": [
+                        "9548684874",
+                        "AKSHAY74CH@GMAIL.COM",
+                        "@__akshayy_kumar"
+                    ]
+                },
+                {
+                    "name": "Khushi",
+                    "programs": [
+                        "B.Tech CSE",
+                        "B.Tech CSE-AI"
+                    ],
+                    "contacts": [
+                        "9120481092",
+                        "KHUSHISONI2003@GMAIL.COM",
+                        "@khushayy_"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Marketing",
+            "members": [
+                {
+                    "name": "Aaryan Tyagi",
+                    "programs": [
+                        "B.Tech CSE",
+                        "B.Tech CSE-AI"
+                    ],
+                    "contacts": [
+                        "9319760076",
+                        "ARYAN.TYAGI02@GMAIL.COM",
+                        "@the_eazyy"
+                    ]
+                },
+                {
+                    "name": "Hrithik Pandey",
+                    "programs": [
+                        "B.Tech CSE",
+                        "B.Tech CSE-AI"
+                    ],
+                    "contacts": [
+                        "7495081142",
+                        "HRITHIKPANDEY9050@GMAIL.COM",
+                        "@oye_pandeyyy"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kafila",
+            "members": [
+                {
+                    "name": "Zuhaib Subhani",
+                    "programs": [
+                        "B.Tech CSE",
+                        "B.Tech CSE-AI"
+                    ],
+                    "contacts": [
+                        "7007634163",
+                        "ZUHAIBSUBHANI12@GMAIL.COM",
+                        "@zuhaiibbbb"
+                    ]
+                },
+                {
+                    "name": "Ritika Singh",
+                    "programs": [
+                        "B.Tech CSE",
+                        "B.Tech CSE-AI"
+                    ],
+                    "contacts": [
+                        "7081849203",
+                        "RITIKA.20SMAS1010048@GALGOTIASUNIVERSITY.EDU.IN",
+                        "@_.ritikasinghrajput_"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "All-Booked",
+            "members": [
+                {
+                    "name": "Ayush Kumar Sinha",
+                    "programs": [
+                        "B.Tech CSE"
+                    ],
+                    "contacts": [
+                        "ishitamuskaan@gmail.com",
+                        "SINHAAYUSH676@GMAIL.COM",
+                        "@_.solitudeislove",
+                        "@shrutii_703"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Human's of Galgotia's",
+            "members": [
+                {
+                    "name": "Apurv Mishra",
+                    "programs": [
+                        "B.Tech CSE",
+                        "B.Tech CSE-AI"
+                    ],
+                    "contacts": [
+                        "9412880777",
+                        "APURVMISHRA2001@GMAIL.COM",
+                        "@its__apurv"
+                    ]
+                },
+                {
+                    "name": "Aditya Mandal",
+                    "programs": [
+                        "B.Tech CSE",
+                        "B.Tech CSE-AI"
+                    ],
+                    "contacts": [
+                        "9142946931",
+                        "KAJALGUPTA2920@GMAIL.COM",
+                        "@wanderer_adi__"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Frag",
+            "members": [
+                {
+                    "name": "Harsh Vyas",
+                    "programs": [
+                        "B.Tech CSE",
+                        "B.Tech CSE-AI"
+                    ],
+                    "contacts": [
+                        "9560703300",
+                        "VYAS.HARSH4000@GMAIL.COM",
+                        "@hershhhieee"
+                    ]
+                },
+                {
+                    "name": "Siddharth Ratana",
+                    "programs": [
+                        "B.Tech CSE",
+                        "B.Tech CSE-AI"
+                    ],
+                    "contacts": [
+                        "6395173997",
+                        "SIDRATHORE501@GMAIL.COM",
+                        "@siddhartha___rathore"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Artistico",
+            "members": [
+                {
+                    "name": "Arpit Garg",
+                    "programs": [
+                        "B.Tech CSE",
+                        "B.Tech CSE-AI"
+                    ],
+                    "contacts": [
+                        "6397220369",
+                        "ARPITGARG7014@GMAIL.COM",
+                        "@arpittttt_19"
+                    ]
+                },
+                {
+                    "name": "Anshika",
+                    "programs": [
+                        "B.Tech CSE",
+                        "B.Tech CSE-AI"
+                    ],
+                    "contacts": [
+                        "8595613309",
+                        "ANSHIKALSHAN1710@GMAIL.COM",
+                        "@_anshikaa_011"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Humanity Saviours",
+            "members": [
+                {
+                    "name": "Ayush Ranjan",
+                    "programs": [
+                        "B.Tech CSE",
+                        "B.Tech CSE-AI"
+                    ],
+                    "contacts": [
+                        "8978432162",
+                        "AYUSHRANJAN1216@GMAIL.COM",
+                        "@ayush_ranjan_27"
+                    ]
+                },
+                {
+                    "name": "Naina Singh",
+                    "programs": [
+                        "B.Tech CSE",
+                        "B.Tech CSE-AI"
+                    ],
+                    "contacts": [
+                        "8603460145",
+                        "NAINA.66402@GMAIL.COM",
+                        "@naina._singh36"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Cyber Cell",
+            "members": [
+                {
+                    "name": "Suvidh Kant",
+                    "programs": [
+                        "B.Tech CSE",
+                        "B.Tech CSE-AI"
+                    ],
+                    "contacts": [
+                        "8273198145",
+                        "SUVIDHKANT2020@GMAIL.COM",
+                        "@suvidh.ai"
+                    ]
+                },
+                {
+                    "name": "Suman Sourav",
+                    "programs": [
+                        "B.Tech CSE",
+                        "B.Tech CSE-AI"
+                    ],
+                    "contacts": [
+                        "8521021908",
+                        "SOURAVSUMAN48200@GMAIL.COM",
+                        "@musicx_suman"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Panache",
+            "members": [
+                {
+                    "name": "Aayushi Pandey",
+                    "programs": [
+                        "B.Tech CSE",
+                        "B.Tech CSE-AI"
+                    ],
+                    "contacts": [
+                        "7055576550",
+                        "pandeyaayushi34@gmail.com",
+                        "@aayushipandey_"
+                    ]
+                },
+                {
+                    "name": "Vanshika Singh",
+                    "programs": [
+                        "B.Tech CSE",
+                        "B.Tech CSE-AI"
+                    ],
+                    "contacts": [
+                        "8595404396",
+                        "Vanshikasingh1206@gmail.com",
+                        "@vanshikazs_"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Quizzards",
+            "members": [
+                {
+                    "name": "Akshat Singh",
+                    "programs": [
+                        "B.Tech CSE",
+                        "B.Tech CSE-AI"
+                    ],
+                    "contacts": [
+                        "6387562566",
+                        "SINGHAKSHAT130@GMAIL.COM",
+                        "@akshatsingh3366"
+                    ]
+                },
+                {
+                    "name": "Yashika Tomar",
+                    "programs": [
+                        "B.Tech CSE",
+                        "B.Tech CSE-AI"
+                    ],
+                    "contacts": [
+                        "7982403154",
+                        "YTOMAR26@GMAIL.COM",
+                        "@yasshiikkkaa"
+                    ]
+                }
+            ]
+        }
+    ]
+}
