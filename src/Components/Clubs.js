@@ -2,14 +2,24 @@ import React from "react";
 
 const Clubs = () => {
   return (
-    <div>
-      Clubslorem50 Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      Suscipit ex velit consectetur omnis minima in rem autem ducimus inventore.
-      Minima sint, temporibus natus inventore at ipsa pariatur vero veritatis
-      cum non consequuntur. Amet quod quae suscipit officiis iste. Soluta
-      laborum quis exercitationem hic quasi aspernatur est optio quas quibusdam
-      neque?
-    </div>
+    <>
+      <header>
+        <i>Galgotias University Student Council</i>
+        CLUBS
+      </header>
+      <button className="dropdown" onClick={()=>{}}>Dropdown</button>
+      <div className="club-content">
+        <div className="club_top">
+          <div className="galgotias_logo">galgotia logo</div>
+          <h1>GU Management Team</h1>
+          <div className="other_logos">Other logos</div>
+        </div>
+        <div className="club_main">
+          <div className="desc">Description</div>
+          <div><img></img>Image</div>
+        </div>
+      </div>
+    </>
   );
 };
 

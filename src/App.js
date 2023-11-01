@@ -11,6 +11,9 @@ import Navbar from "./Components/Navbar";
 // import Achievements from "./Components/Achievements";
 import Clubs from "./Components/Clubs";
 import Main from "./Components/Main";
+import EventPage from "./Components/EventPage";
+import CoreSCPage from "./Components/CoreSCPage";
+import ClubTeamPage from "./Components/ClubTeamPage";
 function App() {
   return (
     <div className="h-32">
@@ -18,6 +21,9 @@ function App() {
       <Routes>
         <Route path="/" element={<Main />} />
         <Route path="clubs" element={<Clubs />} />
+        <Route path="events" element={<EventPage />} />
+        <Route path ="corePage" element={<CoreSCPage/>}/>
+        <Route path = "clubPage" element ={<ClubTeamPage/>}/>
       </Routes>
       <Footer />
     </div>

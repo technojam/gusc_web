@@ -34,17 +34,17 @@ function Navbar() {
             </Link>
           </span>
           <span className="nav-item">
-            <Link className="nav-link" to="/">
+            <Link className="nav-link" to="events">
               Events
             </Link>
           </span>
           <span className="nav-item">
-            <Link className="nav-link" to="/">
+            <Link className="nav-link" to="corePage">
               Team
             </Link>
           </span>
           <span className="nav-item">
-            <Link className="nav-link" to="/">
+            <Link className="nav-link" to="clubPage">
               Photo Gallery
             </Link>
           </span>
