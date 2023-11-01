@@ -44,7 +44,7 @@ function Navbar() {
             </Link>
           </span>
           <span className="nav-item">
-            <Link className="nav-link" to="clubPage">
+            <Link className="nav-link" to="/">
               Photo Gallery
             </Link>
           </span>
