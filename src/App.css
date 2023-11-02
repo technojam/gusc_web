@@ -129,3 +129,70 @@
 }
 
 /* css END FOR hero and Achievements Page */
+
+
+
+
+
+
+.carousel-container {
+  
+  overflow-x: scroll;
+  /* white-space: nowrap; */
+  display: flex;
+  background-color: #AA0A1D;
+  scroll-behavior: smooth; /* Add smooth scrolling */
+  height: 300px;
+}
+
+.carousel-card {width:50px;
+  flex: 0 0 300px; /* Adjust the card width as needed */
+  margin-right: 50px; /* Adjust the card spacing as needed */
+  background: #fff;
+  padding: 16px;
+
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.carousel-card p {
+  overflow-wrap: wrap; /* Allow text to wrap within the card */
+}
+
+.carousel-dots {
+  display: flex;
+  background: #00000099;
+
+  width: 220px;
+  padding: 8px;
+  border-radius: 30px;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  margin-top: 16px;
+}
+
+
+.carousel-container::-webkit-scrollbar {
+  width: 12px; /* Set the width of the scrollbar */
+}
+
+.carousel-container::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0); /* Set the scrollbar thumb color to transparent */
+  border: none; /* Remove the border */
+}
+
+
+.carousel-dot {
+  width: 12px;
+  height: 12px;
+  background-color: #ffffff;
+  border-radius: 50%;
+  cursor: pointer;
+  margin: 0 6px; /* Add margin for spacing */
+}
+
+.carousel-dot.active {
+ border: 1.5px solid rgb(105, 105, 105);
+ transform: scale(1.7);
+ 
+}

@@ -18,16 +18,16 @@ function Navbar() {
             <Link className="nav-link" to="/">Homepage <span className="sr-only">(current)</span></Link>
           </span>
           <span className="nav-item">
-            <Link className="nav-link" to="/">Clubs</Link>
+            <Link className="nav-link" to="/clubs">Clubs</Link>
           </span>
           <span className="nav-item">
-            <Link className="nav-link" to="/">Events</Link>
+            <Link className="nav-link" to="/events">Events</Link>
           </span>
           <span className="nav-item">
-            <Link className="nav-link" to="/">Team</Link>
+            <Link  className="nav-link" to="/teampage">Team</Link>
           </span>
           <span className="nav-item">
-            <Link className="nav-link" to="/">Photo Gallery</Link>
+            <Link className="nav-link" to="/gallery">Photo Gallery</Link>
           </span>
           </div>
       </nav>

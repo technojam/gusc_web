@@ -1,5 +1,6 @@
 import React from "react";
 import img from "../images/event-image.png";
+
 export const Event = () => {
   return (
     <div className="event-section">
