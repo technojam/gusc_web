@@ -4,7 +4,10 @@ import { Outlet, Link } from "react-router-dom";
 const CoreSCPage = () => {
   return (
     <>
-    <div>CoreSCPage</div>
+    <div>teams page</div>
+    <Link className="nav-link" to="/coreSCPage">
+      CoreSCTeam
+    </Link>
     <Link className="nav-link" to="/clubPage">
       ClubTeam
     </Link>
