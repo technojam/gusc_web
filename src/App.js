@@ -15,6 +15,7 @@ import {
   BrowserRouter
 } from "react-router-dom";
 import Achievements from './Components/Achievements';
+
 import TeamPage from './Pages/TeamPage';
 
 import member from "./data/core-team.json"
