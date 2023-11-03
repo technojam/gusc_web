@@ -38,11 +38,9 @@ function ClubMember({ member }) {
   );
 }
 
-
-
 function TeamMember({ member }) {
   return (
-    <div className="flex items-center my-6">
+    <div className="flex justify-evenly gap-5 items-center my-6">
       <img
         src={member.image}
         alt={member.name}
@@ -51,34 +49,36 @@ function TeamMember({ member }) {
       <div>
         <h2 className="text-xl font-bold">{member.name}</h2>
         <p className="text-sm text-gray-700">
-          Programs: {member.programs.join(", ")}
+          Program: {member.program}
         </p>
-        <div className="flex items-center">
-          <p className="text-sm text-gray-700 mr-2">Contacts:</p>
-          <ul className="list-disc ml-4">
-            {member.contacts.map((contact, index) => (
-              <li key={index}>{contact}</li>
-            ))}
-          </ul>
-        </div>
+        <p className="text-sm text-gray-700">
+          Phone: {member["phone-number"]}
+        </p>
+        <p className="text-sm text-gray-700">
+          Email: {member.email}
+        </p>
+        <p className="text-sm bg-black text-white text-gray-700">
+          Insta: {member.account}
+        </p>
       </div>
     </div>
   );
 }
 
 function Team({ team }) {
-  return (
-    <div className="my-8 flex flex-col h-screen">
-      <h1 className="text-4xl font-bold mb-4 text-center">{team.team}</h1>
-      <div className="flex items-center bg-white rounded p-4" style={{ overflowY: 'auto' }}>
-        {team.members.map((member, index) => (
-          <TeamMember key={index} member={member} />
-        ))}
+  return (<>
+    <div className="flex flex-col gap-4">
+      <div className="text-4xl font-bold  text-center">{team.team}</div>
+      <div className="bg-white rounded ">
+        <div className="flex flex-wrap justify-evenly items-center">
+          {team.members.map((member, index) => (
+            <TeamMember key={index} member={member} />
+          ))}
+        </div>
       </div>
-    </div>
+    </div><div className="h-[2px] mb-12 w-[70%]  mx-[20%]"></div></>
   );
 }
-
 
 
 function TeamPage({ member }) {
@@ -117,10 +117,10 @@ function TeamPage({ member }) {
       member.map((member, index) => <ClubMember key={index} member={member} />)
     ) : (
       /* Render the empty JSX here when the button is clicked */
-      <div className="w-screen h-screen font-poppins bg-blue-50 flex flex-col justify-center items-center">
+      <div className=" font-poppins bg-blue-50  flex flex-col justify-center items-center">
         <div className="w-full max-w-screen-xl mx-auto p-6">
           {data.team.map((team, index) => (
-            <Team key={index} team={team} />
+            <><Team key={index} team={team} /><div className="h-[2px] mb-20 w-[100%] bg-slate-900 "></div></>
           ))}
         </div>
       </div>

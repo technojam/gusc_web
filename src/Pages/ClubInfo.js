@@ -1,9 +1,8 @@
 import React, { useRef } from 'react';
 import { useState, useEffect } from 'react';
 
-
 function ClubInfo({ clubs }) {
-  const cardWidth = 300; // Adjust the card width as needed
+  const cardWidth = 400; // Adjust the card width as needed
   const containerRef = useRef(null);
   const [activeDot, setActiveDot] = useState(0);
 
@@ -32,38 +31,43 @@ function ClubInfo({ clubs }) {
   }, []);
 
   return (
-    <div className=" py-8"  style={{ backgroundColor: '#AA0A1D' }}>
-      <div style={{ marginBottom:"60px"}} className="max-w-5xl  mx-auto flex items-center justify-between">
+    <div className="py-8" style={{ backgroundColor: '#AA0A1D' }}>
+      <div style={{ marginBottom: "60px" }} className="max-w-5xl mx-auto flex items-center justify-between">
         <h1 className="text-3xl font-bold text-white mb-4">Our Clubs</h1>
-        <a href='/clubs' className='bg-white text-red-700 font-bold py-2 px-4 border rounded'>
-            Browse All Clubs
-       </a>
+        <a href='/clubs' style={{ backgroundColor: 'white' }} className="text-red font-semibold py-2 px-4">
+          Browse Clubs
+        </a>
       </div>
-      <div className="max-w-6xl flex flex-col flex-wrap mx-auto">
+      <div className="max-w-5xl mx-auto">
         <div className="carousel-container" ref={containerRef}>
           {clubs.map((club, index) => (
             <div key={index} className="carousel-card">
-              <div className="bg-white p-4 rounded-lg shadow-md">
-                <h2 className="text-xl font-semibold mb-2">{club.title}</h2>
+              <div className="bg-white  rounded-lg" style={{ height: '300px' }}>
+                <img src={club.image} alt={club.team} className="w-full h-36 object-cover mb-4 rounded-t-lg" />
+                <h2 className="text-xl font-bold mb-2">{club.team}</h2>
                 <p className="text-gray-700">
-                  {club.description.length > 150 
-                    ? `${club.description.slice(0, 150)}...`
-                    : club.description
-                  }
+                  {club.description}
                 </p>
+                <div className="mt-4"><div className='flex justify-between'>
+                  <p className="text-gray-700">Events Count: {club.eventCount}</p>
+                  <p className="text-gray-700 mb-3">Students Count: {club.studentsCount}</p></div>
+                  <a href="/" className="text-black-700 text-xl  font-bold hover:underline">
+                    {club.register}
+                  </a>
+                </div>
               </div>
             </div>
           ))}
         </div>
-        <div className="carousel-dots">
-          {clubs.map((_, index) => (
-            <div
-              key={index}
-              className={`carousel-dot ${index === activeDot ? 'active' : ''}`}
-              onClick={() => scrollToCard(index)}
-            ></div>
-          ))}
-        </div>
+      </div>
+      <div className="carousel-dots">
+        {clubs.map((_, index) => (
+          <div
+            key={index}
+            className={`carousel-dot ${index === activeDot ? 'active' : ''}`}
+            onClick={() => scrollToCard(index)}
+          ></div>
+        ))}
       </div>
     </div>
   );

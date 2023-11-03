@@ -7,7 +7,7 @@ import Footer from './Components/Footer';
 import Hero from './Pages/Hero';
 import Navbar from './Components/Navbar';
 
-import clubsData from "./data/clubData.json"
+import clubsData from "./data/clubhome.json"
 
 import {
   Routes,

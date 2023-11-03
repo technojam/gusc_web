@@ -142,7 +142,7 @@
   display: flex;
   background-color: #AA0A1D;
   scroll-behavior: smooth; /* Add smooth scrolling */
-  height: 300px;
+  height: 430px;
 }
 
 .carousel-card {width:50px;
@@ -160,7 +160,7 @@
 .carousel-dots {
   display: flex;
   background: #00000099;
-  width: 220px;
+  width: 250px;
   padding: 8px;
   border-radius: 30px;
   margin: 0 auto;

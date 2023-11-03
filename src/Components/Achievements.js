@@ -3,7 +3,7 @@ import React from "react";
 function Achievements() {
   return (
     <>
-      <h1 className="A-Text text-white">Our Achievements</h1>
+      <h1 className="A-Text text-red">Our Achievements</h1>
       <div style={{ marginTop: "55px" }}>
         <div className="container mx-5 my-8">
           <div className="row">
@@ -11,7 +11,7 @@ function Achievements() {
               <div
                 className="card"
                 style={{
-                  width: "13rem",
+                  width: "15.5rem",
                   height: "13rem",
                   backgroundColor: "#A51828",
                 }}
@@ -26,7 +26,7 @@ function Achievements() {
               <div
                 className="card"
                 style={{
-                  width: "13rem",
+                  width: "15.5rem",
                   height: "13rem",
                   backgroundColor: "#A51828",
                 }}
@@ -41,14 +41,14 @@ function Achievements() {
               <div
                 className="card"
                 style={{
-                  width: "13rem",
+                  width: "15.5rem",
                   height: "13rem",
                   backgroundColor: "#A51828",
                 }}
               >
                 <div className="card-body">
-                  <h1>1000+</h1>
-                  <h2>VOLUNTEERS</h2>
+                  <h1>12000+</h1>
+                  <h2>REGISTRATIONS</h2>
                 </div>
               </div>
             </div>
@@ -56,13 +56,13 @@ function Achievements() {
               <div
                 className="card"
                 style={{
-                  width: "13rem",
+                  width: "15.5rem",
                   height: "13rem",
                   backgroundColor: "#A51828",
                 }}
               >
                 <div className="card-body">
-                  <h1>3000+</h1>
+                  <h1>5000+</h1>
                   <h2>MEMBERS</h2>
                 </div>
               </div>
