@@ -1,0 +1,76 @@
+{
+    "clubs": [
+        {
+            "image": "https://placehold.co/600x400/EEE/31343C",
+            "team": "GU Management Team",
+            "description": "The GU Management Team is responsible for overseeing and managing various aspects of GUSC operations. ",
+            "eventCount": 20,
+            "studentsCount": 150,
+            "register": "Register Now"
+        },
+        {
+            "image": "https://placehold.co/600x400/EEE/31343C",
+            "team": "Stage Management Team",
+            "description": "The Stage Management Team plays a crucial role in organizing and executing events and performances at GUSC. ",
+            "eventCount": 15,
+            "studentsCount": 120,
+            "register": "Register Now"
+        },
+        {
+            "image": "https://placehold.co/600x400/EEE/31343C",
+            "team": "Graphex",
+            "description": "Graphex is the design club of GUSC, where creativity knows no bounds.",
+            "eventCount": 25,
+            "studentsCount": 180,
+            "register": "Register Now"
+        },
+        {
+            "image": "https://placehold.co/600x400/EEE/31343C",
+            "team": "Online Promotions",
+            "description": "Online Promotions is the driving force behind GUSC's online presence and engagement.",
+            "eventCount": 30,
+            "studentsCount": 200,
+            "register": "Register Now"
+        },
+        {
+            "image": "https://placehold.co/600x400/EEE/31343C",
+            "team": "Cam Circle",
+            "description": "Cam Circle is the photography and videography team of GUSC. ",
+            "eventCount": 20,
+            "studentsCount": 150,
+            "register": "Register Now"
+        },
+        {
+            "image": "https://placehold.co/600x400/EEE/31343C",
+            "team": "Sponsorship",
+            "description": "The Sponsorship Team at GUSC is responsible for securing sponsorships and partnerships to support our events and activities. ",
+            "eventCount": 15,
+            "studentsCount": 120,
+            "register": "Register Now"
+        },
+        {
+            "image": "https://placehold.co/600x400/EEE/31343C",
+            "team": "Lingo Freaks",
+            "description": "Lingo Freaks is all about language and literature. We explore the world of words, from literature to linguistics.",
+            "eventCount": 10,
+            "studentsCount": 80,
+            "register": "Register Now"
+        },
+        {
+            "image": "https://placehold.co/600x400/EEE/31343C",
+            "team": "TechnoJam",
+            "description": "TechnoJam is the place for tech enthusiasts. We delve into the world of technology, gadgets, and innovation.",
+            "eventCount": 12,
+            "studentsCount": 90,
+            "register": "Register Now"
+        },
+        {
+            "image": "https://placehold.co/600x400/EEE/31343C",
+            "team": "Scintillations",
+            "description": "Scintillations is the science club of GUSC. We are dedicated to scientific exploration and experimentation. ",
+            "eventCount": 18,
+            "studentsCount": 140,
+            "register": "Register Now"
+        }
+    ]
+}
