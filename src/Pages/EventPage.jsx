@@ -5,7 +5,7 @@ const EventPage = () => {
     <div>
       <div className="bg-red-700 p-12 text-center text-white">
         <p className="text-4xl">Galgotias University Student Council</p>
-        <p className="text-7xl font-bold mt-2">Events</p>
+        <p className="text-7xl font-bold mt-2">EVENTS</p>
       </div>
       <div className="bg-white pb-16 ">
         <div className="h-24 px-28 py-14 pb-20 flex justify-between">

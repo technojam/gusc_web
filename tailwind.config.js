@@ -5,7 +5,11 @@ module.exports = {
     "node_modules/react-daisyui/dist/**/*.js"
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        'poppins': ['Poppins', 'sans-serif']
+      },
+    },
   },
   plugins: [require("daisyui")],
 };

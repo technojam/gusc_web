@@ -3,7 +3,7 @@ import clubsData from '../data/clubData.json';
 
 function ClubInfo({ club }) {
   return (
-    <div style={{background:"white"}}  className="w-screen h-screen flex justify-center items-center bg-white-">
+    <div style={{background:"white"}}  className="w-screen h-screen flex-col gap-32 flex justify-center items-center bg-white-">
       <div className="w-full flex flex-col bg-white rounded-lg p-4">
         <div className="flex justify-evenly text-gray-600 mb-4">
           <img src='fvf'/>
@@ -36,6 +36,7 @@ function ClubInfo({ club }) {
           </div>
         </div>
       </div>
+      <div className="h-[2px] w-[70%] bg-slate-900 mx-[20%]"></div>
     </div>
   );
 }
@@ -51,11 +52,11 @@ function ClubComponent() {
       </div>
       <div className="flex justify-center mb-4">
         <div className="w-12" style={{ position: 'relative' }}>
-          <select placeholder='Select Club'
+          <select  placeholder='Select Club'
             onChange={(e) => setSelectedClub(clubsData.clubs[e.target.value])}
             value={clubsData.clubs.indexOf(selectedClub)}
-            className=" w-full p-2 bg-red-500 text-white text-lg font-semibold"
-            style={{   borderRadius:"20px" , width: '250px', position: 'absolute', right: 440, top: 20 }}
+            className="text-center p-1 bg-red-500 text-white text-lg font-semibold"
+            style={{  borderRadius:"20px" , width: '220px', position: 'absolute', right: 400, top: 20 }}
           >
             {clubsData.clubs.map((club, index) => (
               <option key={index} value={index}>

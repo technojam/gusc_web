@@ -100,4 +100,5 @@ code {
 
 @tailwind base;
 @tailwind components;
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 @tailwind utilities;

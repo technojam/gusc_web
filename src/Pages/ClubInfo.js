@@ -39,7 +39,7 @@ function ClubInfo({ clubs }) {
             Browse All Clubs
        </a>
       </div>
-      <div className="max-w-6xl mx-auto">
+      <div className="max-w-6xl flex flex-col flex-wrap mx-auto">
         <div className="carousel-container" ref={containerRef}>
           {clubs.map((club, index) => (
             <div key={index} className="carousel-card">
