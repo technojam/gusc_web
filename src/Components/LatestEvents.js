@@ -93,9 +93,9 @@ class LatestEventComponent extends Component {
             </div>
           </div>
           <div className="grid md:grid-cols-2 md:grid-rows-[68px_1fr_1fr] h-[600px]">
-            <button className="col-span-2 px-8 bg-[#fff] text-[#AA0A1D] place-self-end self-start drop-shadow-[0_5px_10px_rgba(0,0,0.1)] duration-300 hover:drop-shadow-none hover:text-black btn hover:bg-white border-0">
+            <a href="/events" className="col-span-2 px-8 bg-[#fff] text-[#AA0A1D] place-self-end self-start drop-shadow-[0_5px_10px_rgba(0,0,0.1)] duration-300 hover:drop-shadow-none hover:text-black btn hover:bg-white border-0">
               Explore More Events
-            </button>
+            </a>
             {this.imageGrid()}
           </div>
         </div>

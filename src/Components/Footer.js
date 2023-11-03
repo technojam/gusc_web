@@ -4,7 +4,7 @@ export default function Footer() {
   return (
         <footer>
             <div className="main p-0 m-0 box-border w-[100vw]">
-                <div className="foot-row flex justify-around items-center flex-wrap bg-black">
+                <div className="foot-row flex justify-around items-center p-10 flex-wrap bg-black">
                     <div className="col w-[30%] flex flex-col justify-center items-center p-2">
                         <div className="gu-logo w-[50%]">
                             <img src="./images/guLogo.jpg" alt="" />
