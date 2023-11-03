@@ -6,26 +6,18 @@
                 {
                     "image": "https://ik.imagekit.io/qnbmvykj4/Photp.jpg?updatedAt=1698724217237",
                     "name": "Kartik Das",
-                    "programs": [
-                        "B.Tech CSE"
-                    ],
-                    "contacts": [
-                        "8920623059",
-                        "KARTIK.21SCSE1140006@GALGOTIASUNIVERSITY.EDU.IN",
-                        "@_.kartik_das._"
-                    ]
+                    "program": "B.Tech CSE",
+                    "phone-number": "8920623059",
+                    "email": "KARTIK.21SCSE1140006@GALGOTIASUNIVERSITY.EDU.IN",
+                    "account": "@_.kartik_das._"
                 },
                 {
                     "image": "https://ik.imagekit.io/qnbmvykj4/IMG_9037%20-%20Pratham%20Gangwal%201.png?updatedAt=1698724558555",
                     "name": "Pratham Gangwal",
-                    "programs": [
-                        "B.Tech CSE-AI"
-                    ],
-                    "contacts": [
-                        "8865901078",
-                        "prathamofficial414@gmail.com",
-                        "@_.pratham_.8"
-                    ]
+                    "program": "B.Tech CSE-AI",
+                    "phone-number": "8865901078",
+                    "email": "prathamofficial414@gmail.com",
+                    "account": "@_.pratham_.8"
                 }
             ]
         },
@@ -35,26 +27,18 @@
                 {
                     "image": "https://ik.imagekit.io/qnbmvykj4/Photp.png?updatedAt=1698724556284",
                     "name": "Aashutosh Shah",
-                    "programs": [
-                        "B.Tech CSE"
-                    ],
-                    "contacts": [
-                        "7668641935",
-                        "aashutoshshah@gmail.com",
-                        "@aashutosh_shah_"
-                    ]
+                    "program": "B.Tech CSE",
+                    "phone-number": "7668641935",
+                    "email": "aashutoshshah@gmail.com",
+                    "account": "@aashutosh_shah_"
                 },
                 {
                     "image": "https://ik.imagekit.io/qnbmvykj4/IMG_1143%20-%20Pranav%20Tiwary%201.png?updatedAt=1698724556827",
                     "name": "Pranav Tiwary",
-                    "programs": [
-                        "B.Tech CSE-AI"
-                    ],
-                    "contacts": [
-                        "9473094746",
-                        "pranavtiwary61@gmail.com",
-                        "@pranavtiwaryofficial"
-                    ]
+                    "program": "B.Tech CSE-AI",
+                    "phone-number": "9473094746",
+                    "email": "pranavtiwary61@gmail.com",
+                    "account": "@pranavtiwaryofficial"
                 }
             ]
         },
@@ -64,26 +48,18 @@
                 {
                     "image": "https://ik.imagekit.io/qnbmvykj4/1683062555473%201.png?updatedAt=1698725042846",
                     "name": "Devesh Kumar",
-                    "programs": [
-                        "B.Tech CSE"
-                    ],
-                    "contacts": [
-                        "8875697412",
-                        "deveshkumar8114@gmail.com",
-                        "@_devesh_8114"
-                    ]
+                    "program": "B.Tech CSE",
+                    "phone-number": "8875697412",
+                    "email": "deveshkumar8114@gmail.com",
+                    "account": "@_devesh_8114"
                 },
                 {
                     "image": "https://ik.imagekit.io/qnbmvykj4/IMG_20230609_043924_900%20-%20Ishita%20Singh%201.png?updatedAt=1698725044314",
                     "name": "Ishita Singh",
-                    "programs": [
-                        "B.Tech CSE-AI"
-                    ],
-                    "contacts": [
-                        "9302831303",
-                        "ishitamuskaan@gmail.com",
-                        "@itzzz_ishitaa"
-                    ]
+                    "program": "B.Tech CSE-AI",
+                    "phone-number": "9302831303",
+                    "email": "ishitamuskaan@gmail.com",
+                    "account": "@itzzz_ishitaa"
                 }
             ]
         },
@@ -93,26 +69,18 @@
                 {
                     "image": "https://ik.imagekit.io/qnbmvykj4/IMG_20230620_143943%20-%20Ayush%20Aggarwal%201.png?updatedAt=1698725046606",
                     "name": "Ayush Aggarwal",
-                    "programs": [
-                        "B.Tech CSE"
-                    ],
-                    "contacts": [
-                        "9818382184",
-                        "AA9035701@GMAIL.COM",
-                        "@ayush_aggarwal_07"
-                    ]
+                    "program": "B.Tech CSE",
+                    "phone-number": "9818382184",
+                    "email": "AA9035701@GMAIL.COM",
+                    "account": "@ayush_aggarwal_07"
                 },
                 {
                     "image": "https://ik.imagekit.io/qnbmvykj4/IMG_6431%20-%20karuna%20gupta%201.png?updatedAt=1698725046284",
                     "name": "Karuna Gupta",
-                    "programs": [
-                        "B.Tech CSE-AI"
-                    ],
-                    "contacts": [
-                        "7011292241",
-                        "KARUNA.GUPTA1103@GMAIL.COM",
-                        "@_alpha_lock"
-                    ]
+                    "program": "B.Tech CSE-AI",
+                    "phone-number": "7011292241",
+                    "email": "KARUNA.GUPTA1103@GMAIL.COM",
+                    "account": "@_alpha_lock"
                 }
             ]
         },
@@ -122,25 +90,17 @@
                 {
                     "image": "https://ik.imagekit.io/qnbmvykj4/694065%20-%20Adarsh%20Devendra%201.png?updatedAt=1698725045199",
                     "name": "Adarsh Devendra",
-                    "programs": [
-                        "B.Tech CSE"
-                    ],
-                    "contacts": [
-                        "9352409591",
-                        "ishitamuskaan@gmail.com",
-                        "@adarsh_devendra"
-                    ]
+                    "program": "B.Tech CSE",
+                    "phone-number": "9352409591",
+                    "email": "ishitamuskaan@gmail.com",
+                    "account": "@adarsh_devendra"
                 },
                 {
                     "image": "",
                     "name": "Rajeev Kumar",
-                    "programs": [
-                        "B.Tech CSE-AI"
-                    ],
-                    "contacts": [
-                        "ishitamuskaan@gmail.com",
-                        "@rajeev_choudhary_mk"
-                    ]
+                    "program": "B.Tech CSE-AI",
+                    "email": "ishitamuskaan@gmail.com",
+                    "account": "@rajeev_choudhary_mk"
                 }
             ]
         },
@@ -150,26 +110,18 @@
                 {
                     "image": "https://ik.imagekit.io/qnbmvykj4/IMG-20230326-WA0017%20-%20NIKHIL%20JAIN%201.png?updatedAt=1698725047067",
                     "name": "Nikhil Jain",
-                    "programs": [
-                        "B.Tech CSE"
-                    ],
-                    "contacts": [
-                        "7042300378",
-                        "NJ8407838@GMAIL.COM",
-                        "@jn.rsisofficial"
-                    ]
+                    "program": "B.Tech CSE",
+                    "phone-number": "7042300378",
+                    "email": "NJ8407838@GMAIL.COM",
+                    "account": "@jn.rsisofficial"
                 },
                 {
                     "image": "https://ik.imagekit.io/qnbmvykj4/IMG-20230729-WA0000%20-%20Vanshika%20Bhardwaj%201.png?updatedAt=1698725049107",
                     "name": "Vanshika Bhardwaj",
-                    "programs": [
-                        "B.Tech CSE-AI"
-                    ],
-                    "contacts": [
-                        "7457000341",
-                        "VANSHIKA.21SCSE1180059@GALGOTIASUNIVERSITY.EDU.IN",
-                        "@_vanshika_bhardwaj"
-                    ]
+                    "program": "B.Tech CSE-AI",
+                    "phone-number": "7457000341",
+                    "email": "VANSHIKA.21SCSE1180059@GALGOTIASUNIVERSITY.EDU.IN",
+                    "account": "@_vanshika_bhardwaj"
                 }
             ]
         },
@@ -179,26 +131,18 @@
                 {
                     "image": "https://ik.imagekit.io/qnbmvykj4/1671603553309%20-%20Anmol%20kriti%201.png?updatedAt=1698725045771",
                     "name": "Anmol Kriti",
-                    "programs": [
-                        "B.Tech CSE"
-                    ],
-                    "contacts": [
-                        "6202662605",
-                        "KAUSIKANMOL21@GMAIL.COM",
-                        "@anmol_kriti"
-                    ]
+                    "program": "B.Tech CSE",
+                    "phone-number": "6202662605",
+                    "email": "KAUSIKANMOL21@GMAIL.COM",
+                    "account": "@anmol_kriti"
                 },
                 {
                     "image": "https://ik.imagekit.io/qnbmvykj4/_DSC0325%20-%20Advika%20Gupta%201.png?updatedAt=1698725045536",
                     "name": "Medhya Gupta",
-                    "programs": [
-                        "B.Tech CSE-AI"
-                    ],
-                    "contacts": [
-                        "6306862009",
-                        "MEDHYAGUPTA@GMAIL.COM",
-                        "@medhyaaa_"
-                    ]
+                    "program": "B.Tech CSE-AI",
+                    "phone-number": "6306862009",
+                    "email": "MEDHYAGUPTA@GMAIL.COM",
+                    "account": "@medhyaaa_"
                 }
             ]
         },
@@ -208,26 +152,18 @@
                 {
                     "image": "https://ik.imagekit.io/qnbmvykj4/document-vedansh%20-%20Vedansh%20Tripathi%201.png?updatedAt=1698725044698",
                     "name": "Vedansh Tripathi",
-                    "programs": [
-                        "B.Tech CSE"
-                    ],
-                    "contacts": [
-                        "9598157259",
-                        "VEDANSH.TRIPATHI811@GMAIL.COM",
-                        "@_vedansh.tripathi_"
-                    ]
+                    "program": "B.Tech CSE",
+                    "phone-number": "9598157259",
+                    "email": "VEDANSH.TRIPATHI811@GMAIL.COM",
+                    "account": "@_vedansh.tripathi_"
                 },
                 {
                     "image": "https://ik.imagekit.io/qnbmvykj4/IMG-20230519-WA0023%20-%20Priyangana%20Gupta%201.png?updatedAt=1698725048801",
                     "name": "Priyangana Gupta",
-                    "programs": [
-                        "B.Tech CSE-AI"
-                    ],
-                    "contacts": [
-                        "9627311165",
-                        "PRIYANGANAGUPTA04@GMAIL.COM",
-                        "@priyangana_gupta_"
-                    ]
+                    "program": "B.Tech CSE-AI",
+                    "phone-number": "9627311165",
+                    "email": "PRIYANGANAGUPTA04@GMAIL.COM",
+                    "account": "@priyangana_gupta_"
                 }
             ]
         },
@@ -237,55 +173,39 @@
                 {
                     "image": "https://ik.imagekit.io/qnbmvykj4/IMG-20230804-WA0001%20-%20SARTHAK%20SHARMA%201.png?updatedAt=1698725049778",
                     "name": "Sarthak Sharma",
-                    "programs": [
-                        "B.Tech CSE"
-                    ],
-                    "contacts": [
-                        "7455007558",
-                        "SHARMASARTHAK085@GMAIL.COM",
-                        "@rs_sarthak_03"
-                    ]
+                    "program":"B.Tech CSE",
+                    "phone-number": "7455007558",
+                    "email": "SHARMASARTHAK085@GMAIL.COM",
+                    "account": "@rs_sarthak_03"
                 },
                 {
                     "image": "https://ik.imagekit.io/qnbmvykj4/IMG_1394%20-%20Yashica%20pandey%201.png?updatedAt=1698725044714",
                     "name": "Yashica Pandey",
-                    "programs": [
-                        "B.Tech CSE-AI"
-                    ],
-                    "contacts": [
-                        "7488543958",
-                        "KYRACHAUHAN91@GMAIL.COM",
-                        "@yaxhica_xo"
-                    ]
+                    "program": "B.Tech CSE-AI",
+                    "phone-number": "7488543958",
+                    "email": "KYRACHAUHAN91@GMAIL.COM",
+                    "account": "@yaxhica_xo"
                 }
             ]
         },
         {
-            "team": "Actor’s Hub",
+            "team": "Actor's Hub",
             "members": [
                 {
                     "image": "https://ik.imagekit.io/qnbmvykj4/IMG_20230907_015510%20-%20HARSH%20RAJ%2021SMCS1010039%201.png?updatedAt=1698726652777",
                     "name": "Harsh Raj",
-                    "programs": [
-                        "B.Tech CSE"
-                    ],
-                    "contacts": [
-                        "7257039815",
-                        "BABAHARSH288@GMAIL.COM",
-                        "@raj_a_harsh"
-                    ]
+                    "program": "B.Tech CSE",
+                    "phone-number": "7257039815",
+                    "email": "BABAHARSH288@GMAIL.COM",
+                    "account": "@raj_a_harsh"
                 },
                 {
                     "image": "https://ik.imagekit.io/qnbmvykj4/IMG_1566%20-%20Dassing%20satya%201.png?updatedAt=1698726652777",
                     "name": "Satya Prakash",
-                    "programs": [
-                        "B.Tech CSE-AI"
-                    ],
-                    "contacts": [
-                        "8287638004",
-                        "DASSINGSATYA108@GMAIL.COM",
-                        "@dassing_satya"
-                    ]
+                    "program": "B.Tech CSE-AI",
+                    "phone-number": "8287638004",
+                    "email": "DASSINGSATYA108@GMAIL.COM",
+                    "account": "@dassing_satya"
                 }
             ]
         },
@@ -295,26 +215,18 @@
                 {
                     "image": "https://ik.imagekit.io/qnbmvykj4/1FCF0900-3A33-45DE-A7EA-54282280DCAC%20-%20Aman%20Tyagi%201.png?updatedAt=1698726775344",
                     "name": "Aman Tyagi",
-                    "programs": [
-                        "B.Tech CSE"
-                    ],
-                    "contacts": [
-                        "9927521561",
-                        "AMANN.TYAGI18@GMAIL.COM",
-                        "@amann.tyagi"
-                    ]
+                    "program": "B.Tech CSE",
+                    "phone-number": "9927521561",
+                    "email": "AMANN.TYAGI18@GMAIL.COM",
+                    "account": "@amann.tyagi"
                 },
                 {
                     "image": "https://ik.imagekit.io/qnbmvykj4/IMG_20230620_151020%20-%20Rohan%20Sharma%201.png?updatedAt=1698726775349",
                     "name": "Rohan Sharma",
-                    "programs": [
-                        "B.Tech CSE"
-                    ],
-                    "contacts": [
-                        "9557217757",
-                        "ROHANSHARMA03.MAIL@GMAIL.COM",
-                        "@_rohannn.__"
-                    ]
+                    "program": "B.Tech CSE",
+                    "contacts": "9557217757",
+                    "email": "ROHANSHARMA03.MAIL@GMAIL.COM",
+                    "account": "@_rohannn.__"
                 }
             ]
         },
@@ -324,26 +236,18 @@
                 {
                     "image": "https://ik.imagekit.io/qnbmvykj4/C213BD3C-4E2A-42C1-990B-90237FAC0328%20-%20Adil%20Ali%20khan%201.png?updatedAt=1698760945074",
                     "name": "Adil Khan",
-                    "programs": [
-                        "B.Tech CSE"
-                    ],
-                    "contacts": [
-                        "8757909501",
-                        "ADILALIKHAN04776@GMAIL.COM",
-                        "@adilalikhan123"
-                    ]
+                    "program": "B.Tech CSE",
+                    "phone-number": "8757909501",
+                    "email": "ADILALIKHAN04776@GMAIL.COM",
+                    "account": "@adilalikhan123"
                 },
                 {
                     "image": "https://ik.imagekit.io/qnbmvykj4/IMG_20230908_174339_530%20-%20Aniket%20Karn%201.png?updatedAt=1698760945243",
                     "name": "Albin Devis",
-                    "programs": [
-                        "B.Tech CSE-AI"
-                    ],
-                    "contacts": [
-                        "8929660588",
-                        "ALBINDEVIS0100@GAMIL.COM",
-                        "@find_ur_nirvana_"
-                    ]
+                    "program": "B.Tech CSE-AI",
+                    "contacts": "8929660588",
+                    "email": "ALBINDEVIS0100@GAMIL.COM",
+                    "account": "@find_ur_nirvana_"
                 }
             ]
         },
@@ -353,26 +257,18 @@
                 {
                     "image": "https://ik.imagekit.io/qnbmvykj4/IMG-20230224-WA0060%20-%20Akshay%20kumar%201.png?updatedAt=1698761127692",
                     "name": "Akshay Kumar",
-                    "programs": [
-                        "B.Tech CSE"
-                    ],
-                    "contacts": [
-                        "9548684874",
-                        "AKSHAY74CH@GMAIL.COM",
-                        "@__akshayy_kumar"
-                    ]
+                    "program": "B.Tech CSE",
+                    "contacts": "9548684874",
+                    "email": "AKSHAY74CH@GMAIL.COM",
+                    "account": "@__akshayy_kumar"
                 },
                 {
                     "image": "https://ik.imagekit.io/qnbmvykj4/Screenshot_20230908_111938_Instagram%20-%20Khushi%201.png?updatedAt=1698761127480",
                     "name": "Khushi",
-                    "programs": [
-                        "B.Tech CSE-AI"
-                    ],
-                    "contacts": [
-                        "9120481092",
-                        "KHUSHISONI2003@GMAIL.COM",
-                        "@khushayy_"
-                    ]
+                    "program": "B.Tech CSE-AI",
+                    "phone-number": "9120481092",
+                    "email": "KHUSHISONI2003@GMAIL.COM",
+                    "account": "@khushayy_"
                 }
             ]
         },
@@ -382,26 +278,18 @@
                 {
                     "image": "https://ik.imagekit.io/qnbmvykj4/IMG_3643%20-%20Aryan%20Tyagi%201.png?updatedAt=1698761208696",
                     "name": "Aaryan Tyagi",
-                    "programs": [
-                        "B.Tech CSE"
-                    ],
-                    "contacts": [
-                        "9319760076",
-                        "ARYAN.TYAGI02@GMAIL.COM",
-                        "@the_eazyy"
-                    ]
+                    "program": "B.Tech CSE",
+                    "phone-number": "9319760076",
+                    "email": "ARYAN.TYAGI02@GMAIL.COM",
+                    "account": "@the_eazyy"
                 },
                 {
                     "image": "https://ik.imagekit.io/qnbmvykj4/1671818784367%20-%20Hrithik%20Pandey%201.png?updatedAt=1698761208676",
                     "name": "Hrithik Pandey",
-                    "programs": [
-                        "B.Tech CSE-AI"
-                    ],
-                    "contacts": [
-                        "7495081142",
-                        "HRITHIKPANDEY9050@GMAIL.COM",
-                        "@oye_pandeyyy"
-                    ]
+                    "program": "B.Tech CSE-AI",
+                    "phone-number": "7495081142",
+                    "email": "HRITHIKPANDEY9050@GMAIL.COM",
+                    "account": "@oye_pandeyyy"
                 }
             ]
         },
@@ -411,26 +299,18 @@
                 {
                     "image": "https://ik.imagekit.io/qnbmvykj4/IMG_0558%20-%20Zuhaib%20subhani%201.png?updatedAt=1698761272483",
                     "name": "Zuhaib Subhani",
-                    "programs": [
-                        "B.Tech CSE"
-                    ],
-                    "contacts": [
-                        "7007634163",
-                        "ZUHAIBSUBHANI12@GMAIL.COM",
-                        "@zuhaiibbbb"
-                    ]
+                    "program": "B.Tech CSE",
+                    "phone-number": "7007634163",
+                    "email": "ZUHAIBSUBHANI12@GMAIL.COM",
+                    "account": "@zuhaiibbbb"
                 },
                 {
                     "image": "https://ik.imagekit.io/qnbmvykj4/Screenshot_2023-10-21-15-25-18-89_965bbf4d18d205f782c6b8409c5773a4%201.png?updatedAt=1698761272290",
                     "name": "Ritika Singh",
-                    "programs": [
-                        "B.Tech CSE-AI"
-                    ],
-                    "contacts": [
-                        "7081849203",
-                        "RITIKA.20SMAS1010048@GALGOTIASUNIVERSITY.EDU.IN",
-                        "@_.ritikasinghrajput_"
-                    ]
+                    "program": "B.Tech CSE-AI",
+                    "phone-number": "7081849203",
+                    "email": "RITIKA.20SMAS1010048@GALGOTIASUNIVERSITY.EDU.IN",
+                    "account": "@_.ritikasinghrajput_"
                 }
             ]
         },
@@ -440,25 +320,17 @@
                 {
                     "image": "https://ik.imagekit.io/qnbmvykj4/IMG_20230729_005252%20-%20Ayush%20kumar%20sinha%201.png?updatedAt=1698761347639",
                     "name": "Ayush Kumar Sinha",
-                    "programs": [
-                        "B.Tech CSE"
-                    ],
-                    "contacts": [
-                        "9919498498",
-                        "SINHAAYUSH676@GMAIL.COM",
-                        "@_.solitudeislove"
-                    ]
+                    "program": "B.Tech CSE",
+                    "phone-number": "9919498498",
+                    "email": "SINHAAYUSH676@GMAIL.COM",
+                    "account": "@_.solitudeislove"
                 },
                 {
                     "image": "",
                     "name": "Shruti Sharma",
-                    "programs": [
-                        "B.Tech CSE-AI"
-                    ],
-                    "contacts": [
-                        "ishitamuskaan@gmail.com",
-                        "@shrutii_703"
-                    ]
+                    "program": "B.Tech CSE-AI",
+                    "email": "ishitamuskaan@gmail.com",
+                    "account": "@shrutii_703"
                 }
             ]
         },
@@ -468,26 +340,18 @@
                 {
                     "image": "https://ik.imagekit.io/qnbmvykj4/IMG_20230204_225433_314%20-%20apurv%20mishra%201.png?updatedAt=1698761398577",
                     "name": "Apurv Mishra",
-                    "programs": [
-                        "B.Tech CSE"
-                    ],
-                    "contacts": [
-                        "9412880777",
-                        "APURVMISHRA2001@GMAIL.COM",
-                        "@its__apurv"
-                    ]
+                    "program": "B.Tech CSE",
+                    "phone-number": "9412880777",
+                    "email": "APURVMISHRA2001@GMAIL.COM",
+                    "account": "@its__apurv"
                 },
                 {
                     "image": "",
                     "name": "Aditya Mandal",
-                    "programs": [
-                        "B.Tech CSE-AI"
-                    ],
-                    "contacts": [
-                        "9142946931",
-                        "KAJALGUPTA2920@GMAIL.COM",
-                        "@wanderer_adi__"
-                    ]
+                    "program": "B.Tech CSE-AI",
+                    "phone-number": "9142946931",
+                    "email": "KAJALGUPTA2920@GMAIL.COM",
+                    "account": "@wanderer_adi__"
                 }
             ]
         },
@@ -497,26 +361,18 @@
                 {
                     "image": "https://ik.imagekit.io/qnbmvykj4/WhatsApp%20Image%202023-09-07%20at%2021.19%201.png?updatedAt=1698761775367",
                     "name": "Harsh Vyas",
-                    "programs": [
-                        "B.Tech CSE"
-                    ],
-                    "contacts": [
-                        "9560703300",
-                        "VYAS.HARSH4000@GMAIL.COM",
-                        "@hershhhieee"
-                    ]
+                    "program": "B.Tech CSE",
+                    "phone-number": "9560703300",
+                    "email": "VYAS.HARSH4000@GMAIL.COM",
+                    "account": "@hershhhieee"
                 },
                 {
                     "image": "https://ik.imagekit.io/qnbmvykj4/IMG_8955_Original%20-%20Siddhartha%20Rathore%201.png?updatedAt=1698761775477",
                     "name": "Siddharth Ratana",
-                    "programs": [
-                        "B.Tech CSE-AI"
-                    ],
-                    "contacts": [
-                        "6395173997",
-                        "SIDRATHORE501@GMAIL.COM",
-                        "@siddhartha___rathore"
-                    ]
+                    "program": "B.Tech CSE-AI",
+                    "phone-number": "6395173997",
+                    "email": "SIDRATHORE501@GMAIL.COM",
+                    "account": "@siddhartha___rathore"
                 }
             ]
         },
@@ -526,26 +382,18 @@
                 {
                     "image": "https://ik.imagekit.io/qnbmvykj4/arpit%20-%20Arpit%201.png?updatedAt=1698761870586",
                     "name": "Arpit Garg",
-                    "programs": [
-                        "B.Tech CSE"
-                    ],
-                    "contacts": [
-                        "6397220369",
-                        "ARPITGARG7014@GMAIL.COM",
-                        "@arpittttt_19"
-                    ]
+                    "program": "B.Tech CSE",
+                    "phone-number": "6397220369",
+                    "email": "ARPITGARG7014@GMAIL.COM",
+                    "account": "@arpittttt_19"
                 },
                 {
                     "image": "https://ik.imagekit.io/qnbmvykj4/IMG_20230729_102624%20-%20anshika%20kalshan%201.png?updatedAt=1698761870715",
                     "name": "Anshika",
-                    "programs": [
-                        "B.Tech CSE-AI"
-                    ],
-                    "contacts": [
-                        "8595613309",
-                        "ANSHIKALSHAN1710@GMAIL.COM",
-                        "@_anshikaa_011"
-                    ]
+                    "program": "B.Tech CSE-AI",
+                    "phone-number": "8595613309",
+                    "email": "ANSHIKALSHAN1710@GMAIL.COM",
+                    "account": "@_anshikaa_011"
                 }
             ]
         },
@@ -555,26 +403,18 @@
                 {
                     "image": "https://ik.imagekit.io/qnbmvykj4/IMG_20230904_222215%20-%20Ayush%20Ranjan%201.png?updatedAt=1698761968109",
                     "name": "Ayush Ranjan",
-                    "programs": [
-                        "B.Tech CSE"
-                    ],
-                    "contacts": [
-                        "8978432162",
-                        "AYUSHRANJAN1216@GMAIL.COM",
-                        "@ayush_ranjan_27"
-                    ]
+                    "program": "B.Tech CSE",
+                    "phone-number": "8978432162",
+                    "email": "AYUSHRANJAN1216@GMAIL.COM",
+                    "account": "@ayush_ranjan_27"
                 },
                 {
                     "image": "https://ik.imagekit.io/qnbmvykj4/WhatsApp%20Image%202023-06-12%20at%2020.45%201.png?updatedAt=1698761968300",
                     "name": "Naina Singh",
-                    "programs": [
-                        "B.Tech CSE-AI"
-                    ],
-                    "contacts": [
-                        "8603460145",
-                        "NAINA.66402@GMAIL.COM",
-                        "@naina._singh36"
-                    ]
+                    "program": "B.Tech CSE-AI",
+                    "phone-number": "8603460145",
+                    "email": "NAINA.66402@GMAIL.COM",
+                    "account": "@naina._singh36"
                 }
             ]
         },
@@ -584,26 +424,18 @@
                 {
                     "image": "https://ik.imagekit.io/qnbmvykj4/Picsart_23-09-05_08-55-05-500%20-%20Suvidh%20Kant%201.png?updatedAt=1698762080838",
                     "name": "Suvidh Kant",
-                    "programs": [
-                        "B.Tech CSE"
-                    ],
-                    "contacts": [
-                        "8273198145",
-                        "SUVIDHKANT2020@GMAIL.COM",
-                        "@suvidh.ai"
-                    ]
+                    "program": "B.Tech CSE",
+                    "phone-number": "8273198145",
+                    "email": "SUVIDHKANT2020@GMAIL.COM",
+                    "account": "@suvidh.ai"
                 },
                 {
                     "image": "https://ik.imagekit.io/qnbmvykj4/InShot_20230903_003153710~2%20-%20Suman%20Sourav%201.png?updatedAt=1698762080916",
                     "name": "Suman Sourav",
-                    "programs": [
-                        "B.Tech CSE-AI"
-                    ],
-                    "contacts": [
-                        "8521021908",
-                        "SOURAVSUMAN48200@GMAIL.COM",
-                        "@musicx_suman"
-                    ]
+                    "program": "B.Tech CSE-AI",
+                    "phone-number": "8521021908",
+                    "email": "SOURAVSUMAN48200@GMAIL.COM",
+                    "account": "@musicx_suman"
                 }
             ]
         },
@@ -613,26 +445,18 @@
                 {
                     "image": "https://ik.imagekit.io/qnbmvykj4/af955c21-01fb-4d06-87ec-4b984d2e1307%20-%20Aayushi%20Pandey%201.png?updatedAt=1698762155341",
                     "name": "Aayushi Pandey",
-                    "programs": [
-                        "B.Tech CSE"
-                    ],
-                    "contacts": [
-                        "7055576550",
-                        "pandeyaayushi34@gmail.com",
-                        "@aayushipandey_"
-                    ]
+                    "program": "B.Tech CSE",
+                    "phone-number": "7055576550",
+                    "email": "pandeyaayushi34@gmail.com",
+                    "account": "@aayushipandey_"
                 },
                 {
                     "image": "https://ik.imagekit.io/qnbmvykj4/Screenshot_20230908_204040_Gallery%20-%20vanshika%20singh%201.png?updatedAt=1698762155377",
                     "name": "Vanshika Singh",
-                    "programs": [
-                        "B.Tech CSE-AI"
-                    ],
-                    "contacts": [
-                        "8595404396",
-                        "Vanshikasingh1206@gmail.com",
-                        "@vanshikazs_"
-                    ]
+                    "program": "B.Tech CSE-AI",
+                    "phone-number": "8595404396",
+                    "email": "Vanshikasingh1206@gmail.com",
+                    "account": "@vanshikazs_"
                 }
             ]
         },
@@ -642,27 +466,18 @@
                 {
                     "image": "https://ik.imagekit.io/qnbmvykj4/Snapchat-2141115066%20-%20akshat%20singh%201.png?updatedAt=1698762237236",
                     "name": "Akshat Singh",
-                    "programs": [
-                        "B.Tech CSE"
-                    ],
-                    "contacts": [
-                        "6387562566",
-                        "SINGHAKSHAT130@GMAIL.COM",
-                        "@akshatsingh3366"
-                    ]
+                    "program": "B.Tech CSE",
+                    "contacts": "6387562566",
+                    "email": "SINGHAKSHAT130@GMAIL.COM",
+                    "account": "@akshatsingh3366"
                 },
                 {
                     "image": "https://ik.imagekit.io/qnbmvykj4/InShot_20230111_215942875%20-%20Yashika%20Tomar%201.png?updatedAt=1698762238426",
                     "name": "Yashika Tomar",
-                    "programs": [
-                        "B.Tech CSE",
-                        "B.Tech CSE-AI"
-                    ],
-                    "contacts": [
-                        "7982403154",
-                        "YTOMAR26@GMAIL.COM",
-                        "@yasshiikkkaa"
-                    ]
+                    "program": "B.Tech CSE-AI",
+                    "phone-number": "7982403154",
+                    "email": "YTOMAR26@GMAIL.COM",
+                    "account": "@yasshiikkkaa"
                 }
             ]
         }
