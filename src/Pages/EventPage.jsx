@@ -21,7 +21,7 @@ const EventPage = () => {
           </div>
         </div>
       <div className="h-[2px] w-[70%] bg-slate-900 mx-[20%]"></div>
-      </div>
+      </div>  
     </div>
   );
 };
