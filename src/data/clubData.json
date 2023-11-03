@@ -1,71 +1,68 @@
-
-
 {
-    "clubs":[
-    {
-        "image": "",
-        "title": "Coding Club",
-        "description": "The Coding Club at Galgotias University is for those who are passionate about technology and coding. We explore the world of programming, software development, and problem-solving. Our club organizes coding competitions, hackathons, and coding boot camps to enhance our members' coding skills. Whether you are a beginner or an experienced coder, we welcome you to join us in this exciting journey of innovation and technology.",
-        "eventCount": 12,
-        "studentsCount": 100,
-        "registerLink": ""
-    },
-    {
-        "image": "",
-        "title": "Sports Club",
-        "description": "The Sports Club at Galgotias University is all about physical fitness, competition, and teamwork. We offer a wide range of sports and organize regular tournaments and events. Whether you're an athlete or just looking to stay active, our club provides the perfect platform to enjoy sports, make friends, and represent the university in various competitions.",
-        "eventCount": 10,
-        "studentsCount": 80,
-        "registerLink": ""
-    },
-    {
-        "image": "",
-        "title": "Eco Club",
-        "description": "The Eco Club at Galgotias University is dedicated to environmental conservation and sustainability. We organize tree plantation drives, clean-up campaigns, and awareness programs to protect our planet. If you have a passion for the environment and want to make a difference, join our club and be a part of the green movement.",
-        "eventCount": 6,
-        "studentsCount": 50,
-        "registerLink": ""
-    },
-    {
-        "image": "",
-        "title": "Debate Club",
-        "description": "The Debate Club at Galgotias University is where intellectual discussions and public speaking thrive. We host debates, discussions, and workshops to improve your oratory and critical thinking skills. Join us to engage in meaningful conversations and develop your ability to articulate your ideas effectively.",
-        "eventCount": 8,
-        "studentsCount": 70,
-        "registerLink": ""
-    },
-    {
-        "image": "",
-        "title": "Robotics Club",
-        "description": "The Robotics Club at Galgotias University combines technology and creativity to build robots and automation systems. Our club members design, build, and program robots for various applications. If you're fascinated by robotics and want to explore this cutting-edge field, join us on a journey of innovation and automation.",
-        "eventCount": 9,
-        "studentsCount": 60,
-        "registerLink": ""
-    },
-    {
-        "image": "",
-        "title": "Art Club",
-        "description": "The Art Club at Galgotias University is a canvas for creative minds. We celebrate art in all its forms, including painting, sketching, and sculpture. Our club provides a space for artists to unleash their imagination and exhibit their work. Join us to explore the world of visual art and express your creativity.",
-        "eventCount": 7,
-        "studentsCount": 55,
-        "registerLink": ""
-    },
-    {
-        "image": "",
-        "title": "Entrepreneurship Club",
-        "description": "The Entrepreneurship Club at Galgotias University nurtures the entrepreneurial spirit in students. We provide resources, mentorship, and opportunities for aspiring entrepreneurs to develop their startup ideas. If you have a vision to create a business, join our club and embark on an entrepreneurial journey.",
-        "eventCount": 5,
-        "studentsCount": 45,
-        "registerLink": ""
-    },
-    {
-        "image": "",
-        "title": "Science Club",
-        "description": "The Science Club at Galgotias University is a hub for science enthusiasts. We conduct experiments, host science exhibitions, and explore various scientific fields. Whether you're passionate about physics, chemistry, or biology, our club offers a platform to satisfy your curiosity and engage in scientific exploration.",
-        "eventCount": 6,
-        "studentsCount": 50,
-        "registerLink": ""
-    }
-    
-]
+    "clubs": [
+        {
+            "image": "https://i0.wp.com/thinkfirstcommunication.com/wp-content/uploads/2022/05/placeholder-1-1.png?fit=1200%2C800&ssl=1",
+            "title": "Coding Club",
+            "description": "The Coding Club at Galgotias University is for those who are passionate about technology and coding. We explore the world of programming, software development, and problem-solving. Our club organizes coding competitions, hackathons, and coding boot camps to enhance our members' coding skills. Whether you are a beginner or an experienced coder, we welcome you to join us in this exciting journey of innovation and technology.",
+            "eventCount": 12,
+            "studentsCount": 100,
+            "registerLink": ""
+        },
+        {
+            "image": "https://i0.wp.com/thinkfirstcommunication.com/wp-content/uploads/2022/05/placeholder-1-1.png?fit=1200%2C800&ssl=1",
+            "title": "Sports Club",
+            "description": "The Sports Club at Galgotias University is all about physical fitness, competition, and teamwork. We offer a wide range of sports and organize regular tournaments and events. Whether you're an athlete or just looking to stay active, our club provides the perfect platform to enjoy sports, make friends, and represent the university in various competitions.",
+            "eventCount": 10,
+            "studentsCount": 80,
+            "registerLink": ""
+        },
+        {
+            "image": "https://i0.wp.com/thinkfirstcommunication.com/wp-content/uploads/2022/05/placeholder-1-1.png?fit=1200%2C800&ssl=1",
+            "title": "Eco Club",
+            "description": "The Eco Club at Galgotias University is dedicated to environmental conservation and sustainability. We organize tree plantation drives, clean-up campaigns, and awareness programs to protect our planet. If you have a passion for the environment and want to make a difference, join our club and be a part of the green movement.",
+            "eventCount": 6,
+            "studentsCount": 50,
+            "registerLink": ""
+        },
+        {
+            "image": "https://i0.wp.com/thinkfirstcommunication.com/wp-content/uploads/2022/05/placeholder-1-1.png?fit=1200%2C800&ssl=1",
+            "title": "Debate Club",
+            "description": "The Debate Club at Galgotias University is where intellectual discussions and public speaking thrive. We host debates, discussions, and workshops to improve your oratory and critical thinking skills. Join us to engage in meaningful conversations and develop your ability to articulate your ideas effectively.",
+            "eventCount": 8,
+            "studentsCount": 70,
+            "registerLink": ""
+        },
+        {
+            "image": "https://i0.wp.com/thinkfirstcommunication.com/wp-content/uploads/2022/05/placeholder-1-1.png?fit=1200%2C800&ssl=1",
+            "title": "Robotics Club",
+            "description": "The Robotics Club at Galgotias University combines technology and creativity to build robots and automation systems. Our club members design, build, and program robots for various applications. If you're fascinated by robotics and want to explore this cutting-edge field, join us on a journey of innovation and automation.",
+            "eventCount": 9,
+            "studentsCount": 60,
+            "registerLink": ""
+        },
+        {
+            "image": "https://i0.wp.com/thinkfirstcommunication.com/wp-content/uploads/2022/05/placeholder-1-1.png?fit=1200%2C800&ssl=1",
+            "title": "Art Club",
+            "description": "The Art Club at Galgotias University is a canvas for creative minds. We celebrate art in all its forms, including painting, sketching, and sculpture. Our club provides a space for artists to unleash their imagination and exhibit their work. Join us to explore the world of visual art and express your creativity.",
+            "eventCount": 7,
+            "studentsCount": 55,
+            "registerLink": ""
+        },
+        {
+            "image": "https://i0.wp.com/thinkfirstcommunication.com/wp-content/uploads/2022/05/placeholder-1-1.png?fit=1200%2C800&ssl=1",
+            "title": "Entrepreneurship Club",
+            "description": "The Entrepreneurship Club at Galgotias University nurtures the entrepreneurial spirit in students. We provide resources, mentorship, and opportunities for aspiring entrepreneurs to develop their startup ideas. If you have a vision to create a business, join our club and embark on an entrepreneurial journey.",
+            "eventCount": 5,
+            "studentsCount": 45,
+            "registerLink": ""
+        },
+        {
+            "image": "https://i0.wp.com/thinkfirstcommunication.com/wp-content/uploads/2022/05/placeholder-1-1.png?fit=1200%2C800&ssl=1",
+            "title": "Science Club",
+            "description": "The Science Club at Galgotias University is a hub for science enthusiasts. We conduct experiments, host science exhibitions, and explore various scientific fields. Whether you're passionate about physics, chemistry, or biology, our club offers a platform to satisfy your curiosity and engage in scientific exploration.",
+            "eventCount": 6,
+            "studentsCount": 50,
+            "registerLink": ""
+        }
+    ]
 }

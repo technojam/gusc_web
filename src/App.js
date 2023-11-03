@@ -39,7 +39,7 @@ function App() {
               <Footer />
             </>
           } />
-          
+
           <Route path='/teamPage' element={<TeamPage member={member.members}/>} /> 
           <Route path='/clubs' element={<ClubComponent/>} /> 
           <Route path='/events' element={<EventPage/>} /> 
