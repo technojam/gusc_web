@@ -139,7 +139,7 @@ class LatestEventComponent extends Component {
     return (
       <React.Fragment>
         {this.state.Events.map((Events) => (
-          <a href className={Events.class} key={Events.id}>
+          <a className={Events.class} key={Events.id}>
             <div
               className="flex flex-col justify-end items-end"
               key={Events.id}

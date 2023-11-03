@@ -1,6 +1,7 @@
 import React, { useRef } from 'react';
 import { useState, useEffect } from 'react';
 
+
 function ClubInfo({ clubs }) {
   const cardWidth = 300; // Adjust the card width as needed
   const containerRef = useRef(null);
@@ -34,18 +35,18 @@ function ClubInfo({ clubs }) {
     <div className=" py-8"  style={{ backgroundColor: '#AA0A1D' }}>
       <div style={{ marginBottom:"60px"}} className="max-w-5xl  mx-auto flex items-center justify-between">
         <h1 className="text-3xl font-bold text-white mb-4">Our Clubs</h1>
-        <a href='/clubs' style={{ backgroundColor: 'white' }} className="text-red font-semibold py-2 px-4">
-          Browse Clubs
-        </a>
+        <a href='/clubs' className='bg-white text-red-700 font-bold py-2 px-4 border rounded'>
+            Browse All Clubs
+       </a>
       </div>
-      <div className="max-w-5xl mx-auto">
+      <div className="max-w-6xl mx-auto">
         <div className="carousel-container" ref={containerRef}>
           {clubs.map((club, index) => (
             <div key={index} className="carousel-card">
               <div className="bg-white p-4 rounded-lg shadow-md">
                 <h2 className="text-xl font-semibold mb-2">{club.title}</h2>
                 <p className="text-gray-700">
-                  {club.description.length > 150 // Adjust the character limit as needed
+                  {club.description.length > 150 
                     ? `${club.description.slice(0, 150)}...`
                     : club.description
                   }

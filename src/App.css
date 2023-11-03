@@ -146,11 +146,10 @@
 }
 
 .carousel-card {width:50px;
-  flex: 0 0 300px; /* Adjust the card width as needed */
+  flex: 0 0 350px; /* Adjust the card width as needed */
   margin-right: 50px; /* Adjust the card spacing as needed */
   background: #fff;
   padding: 16px;
-
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
@@ -161,7 +160,6 @@
 .carousel-dots {
   display: flex;
   background: #00000099;
-
   width: 220px;
   padding: 8px;
   border-radius: 30px;

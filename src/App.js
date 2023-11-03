@@ -19,6 +19,9 @@ import Achievements from './Components/Achievements';
 import TeamPage from './Pages/TeamPage';
 
 import member from "./data/core-team.json"
+import ClubComponent from './Components/ClubComponent';
+import EventPage from './Pages/EventPage';
+import Gallery from './Pages/Gallery';
 
 function App() {
   return (
@@ -36,7 +39,12 @@ function App() {
               <Footer />
             </>
           } />
+          
           <Route path='/teamPage' element={<TeamPage member={member.members}/>} /> 
+          <Route path='/clubs' element={<ClubComponent/>} /> 
+          <Route path='/events' element={<EventPage/>} /> 
+          <Route path='/gallery' element={<Gallery/>} /> 
+          
         </Routes>
       </BrowserRouter>
     </div>
