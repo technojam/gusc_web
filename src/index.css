@@ -6,6 +6,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   overflow-x: hidden;
+
 }
 
 *,
@@ -92,9 +93,11 @@ code {
   border: 2px solid #66646498;
 }
 
+
 .event-image {
   width: 480px;
 }
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;

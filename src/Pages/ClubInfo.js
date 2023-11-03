@@ -1,66 +1,67 @@
-import React from "react";
+import React, { useRef } from 'react';
+import { useState, useEffect } from 'react';
 
-function ClubInfo() {
+function ClubInfo({ clubs }) {
+  const cardWidth = 300; // Adjust the card width as needed
+  const containerRef = useRef(null);
+  const [activeDot, setActiveDot] = useState(0);
+
+  const updateActiveDot = () => {
+    const container = containerRef.current;
+    const scrollLeft = container.scrollLeft;
+    const active = Math.round(scrollLeft / cardWidth);
+    setActiveDot(active);
+  };
+
+  const scrollToCard = (cardIndex) => {
+    const container = containerRef.current;
+    container.scrollLeft = cardIndex * cardWidth;
+  };
+
+  useEffect(() => {
+    updateActiveDot();
+
+    // Add scroll event listener to update the active dot
+    const container = containerRef.current;
+    container.addEventListener('scroll', updateActiveDot);
+
+    return () => {
+      container.removeEventListener('scroll', updateActiveDot);
+    };
+  }, []);
+
   return (
-    <div>
-      <div className="bg-red-700 p-12 text-center text-white">
-        <p className="text-4xl">Galgotias University Student Council</p>
-        <p className="text-7xl font-bold mt-2">CLUBS</p>
+    <div className=" py-8"  style={{ backgroundColor: '#AA0A1D' }}>
+      <div style={{ marginBottom:"60px"}} className="max-w-5xl  mx-auto flex items-center justify-between">
+        <h1 className="text-3xl font-bold text-white mb-4">Our Clubs</h1>
+        <a href='/clubs' style={{ backgroundColor: 'white' }} className="text-red font-semibold py-2 px-4">
+          Browse Clubs
+        </a>
       </div>
-
-      <div className="p-20">
-        <div className="flex items-center justify-between">
-          <img
-            src="https://s3-alpha-sig.figma.com/img/3022/d077/2c2096476a2f43ebbe482a605c207e33?Expires=1673222400&Signature=PJTpPitS~L3VF1GkoRncqYL0vqY3A80VO5rQYnvfIg9a44fCWredM5G1lLAVRxEk9fPmxVI6NDuRJFWNWv3dbZYkZBz0LrHYvncO7Jt1S3zQGaIy1If~Zdyppidg-tLO4qlzKsgwllnsaMOQyBwLx7I4gkS3PC5sH2CjKgMkx6Zg6Qq2LEhyyLjJU4dDBcpAPU1yWkz858OiuN1UsrKcOf7Or78DHnRXort58xUIShElJHVI6y6LEINMN0S62reoKGcOuCdN6k1F1M2XanFHR5-bXbQuqmsDg09~XBMs3AXer8BN~xoB4ELbHXUF-v6mubQQ61wWutmvvsdFZ7~PPA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
-            alt="sme"
-            width={200}
-            height={200}
-          />
-          <p className="text-4xl font-medium text-info">Graphex</p>
-          <div className="flex flex-col">
-            <p className="text-center">Club Heads</p>
-            <div className="flex">
-              <img
-                src="https://s3-alpha-sig.figma.com/img/2c30/7dc1/269f27e3a895266a840c4169ed6f1ac0?Expires=1673222400&Signature=Jkk6zhlqCeYg~W~RcGZVKCp9ujunPOK2Twe76dNkKYgFG2apmbAydH6RtaIpV2~Dt3xwLBVIwRIF~qP5PNmKlha~UWut1ySvPKS4RCelIMeeyhw0WsLKNQjHADHsV0wpRf7TuQyQnrbjwUBkpPmpzID3SL3IbPaZU8tqmfRf-2dJH~BwcIPbQUFJbCsU0xaXe3z9Q8Pxmnc9m1pETZDEzKrclNMI5Auk5sNOwNr9mvB1Ux5CNvumKGQRJyoGfo4qlXBOFDtBybdCcCnjZNtJg7pDun9gcjujhpV15pc88ZHoRaLdC-~paTCqWSefrNnaRfP2XqmjtUksyEi3uwJZig__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
-                alt="sme"
-                width={100}
-                height={100}
-              />
-              <img
-                src="https://s3-alpha-sig.figma.com/img/2c30/7dc1/269f27e3a895266a840c4169ed6f1ac0?Expires=1673222400&Signature=Jkk6zhlqCeYg~W~RcGZVKCp9ujunPOK2Twe76dNkKYgFG2apmbAydH6RtaIpV2~Dt3xwLBVIwRIF~qP5PNmKlha~UWut1ySvPKS4RCelIMeeyhw0WsLKNQjHADHsV0wpRf7TuQyQnrbjwUBkpPmpzID3SL3IbPaZU8tqmfRf-2dJH~BwcIPbQUFJbCsU0xaXe3z9Q8Pxmnc9m1pETZDEzKrclNMI5Auk5sNOwNr9mvB1Ux5CNvumKGQRJyoGfo4qlXBOFDtBybdCcCnjZNtJg7pDun9gcjujhpV15pc88ZHoRaLdC-~paTCqWSefrNnaRfP2XqmjtUksyEi3uwJZig__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
-                alt="sme"
-                width={100}
-                height={100}
-              />
+      <div className="max-w-5xl mx-auto">
+        <div className="carousel-container" ref={containerRef}>
+          {clubs.map((club, index) => (
+            <div key={index} className="carousel-card">
+              <div className="bg-white p-4 rounded-lg shadow-md">
+                <h2 className="text-xl font-semibold mb-2">{club.title}</h2>
+                <p className="text-gray-700">
+                  {club.description.length > 150 // Adjust the character limit as needed
+                    ? `${club.description.slice(0, 150)}...`
+                    : club.description
+                  }
+                </p>
+              </div>
             </div>
-          </div>
+          ))}
         </div>
-
-        <div className="flex p-12 gap-12">
-          <div className="w-7/12">
-            <p className="text-justify text-white">
-              Graphex has been extensively working as a backbone for the
-              Galgotias Student Council and has been collaborating with clubs to
-              make their events successful in every manner of creativity. The
-              team has been providing all the clubs with all the necessities
-              like Posters, Videos, Banners, Certificates, Logos, and a lot more
-              stuff. Graphex has always been committed to its work in all major
-              aspects of design. No matter whatever the mode is offline or
-              online, Graphex has always been active. Graphex has been always
-              involved in almost every event as it has been contributing, all
-              types of design. It has not only been responsible for creating all
-              the creatives and video content but also has been into educating
-              and facilitating the knowledge in its niche at a huge level and
-              participation in its workshops.
-            </p>
-          </div>
-          <div className="w-5/12 bg-slate-300">
-            {/* <img
-                            src=""
-                            alt="banner"
-                            height={800}
-                        /> */}
-          </div>
+        <div className="carousel-dots">
+          {clubs.map((_, index) => (
+            <div
+              key={index}
+              className={`carousel-dot ${index === activeDot ? 'active' : ''}`}
+              onClick={() => scrollToCard(index)}
+            ></div>
+          ))}
         </div>
       </div>
     </div>

@@ -3,41 +3,51 @@ import {useState} from 'react'
 export default function Core() {
     const [cards]=useState([
         {
-            title: "Genera Secretary",
-            name: "Akshat Aggarwal",
-            img: "./images/image.jpg"
+            title: "General Secretary",
+            name: "NIKUNJ BIHARI",
+            img: "https://ik.imagekit.io/qnbmvykj4/New%20folder/IMG_20230910_021448%20-%20Nikunj%201.png?updatedAt=1698762702071"
         },
         {
-            title: "Chief Secretary",
-            name: "Vishnu Tandon",
-            img: "./images/image.jpg"
+            title: "VICE PRESIDENT",
+            name: "TAPISH RAWAT",
+            img: "https://ik.imagekit.io/qnbmvykj4/New%20folder/DSC_4523%20-%20TAPISH%20RAWAT%201.png?updatedAt=1698762701793"
         },
         {
-            title:"Joint Secretary",
-            name: "Gulshan Kumar Mehta",
-            img: "./images/image.jpg"
+            title:"VICE PRESIDENT",
+            name: "AVANINDRA VIKRAM PRATAP SINGH",
+            img: "https://ik.imagekit.io/qnbmvykj4/New%20folder/IMG_3302%20-%20Avanindra%20Vikram%20Pratap%20Singh%201.png?updatedAt=1698762702085"
         },
         {
             title: "Vice Secretary",
-            name: "Sneha Mehta",
-            img: "./images/image.jpg"
+            name: "UMAD SOFI",
+            img: "https://ik.imagekit.io/qnbmvykj4/New%20folder/IMG20230706095539%20-%20ummad%20sofi%201.png?updatedAt=1698762701797"
         },
         
         {
-            title: "Regent Secretary",
-            name: "Kunwar Prarup Yash",
-            img: "./images/image.jpg"
+            title: "VICE PRESIDENT",
+            name: "DEVANSH KAUSHIK",
+            img: "https://ik.imagekit.io/qnbmvykj4/New%20folder/6A0E87BB-97B6-45AC-BE01-16327BE215CC%20-%20Devansh%20kaushik%201.png?updatedAt=1698762701496"
         },
         
         {
             title: "Deputy Regent Secretary",
-            name: "Shubhangi Pandey",
-            img: "./images/image.jpg"
+            name: "RAHUL BHOGAL",
+            img: "https://ik.imagekit.io/qnbmvykj4/New%20folder/_DSC0057%20-%20Rahul%20Bhogal%201.png?updatedAt=1698762702077"
         },
         {
             title: "Deputy Regent Secretary",
-            name: "Shubham Satyam Dubey",
-            img: "./images/image.jpg"
+            name: "SAUMYA PATHAK",
+            img: "https://ik.imagekit.io/qnbmvykj4/New%20folder/1691066068478%201.png?updatedAt=1698762700169"
+        },
+        {
+            title: "Deputy Regent Secretary",
+            name: "MELODY TSISTI MUCHAFA",
+            img: "https://ik.imagekit.io/qnbmvykj4/New%20folder/WhatsApp%20Image%202023-08-03%20at%2018.04%201.png?updatedAt=1698762701797"
+        },
+        {
+            title: "Deputy Regent Secretary",
+            name: "Shruti Saxena",
+            img: "https://ik.imagekit.io/qnbmvykj4/New%20folder/IMG_20230803_174412%20-%20Shruti%20Saxena%201.png?updatedAt=1698762701156"
         }
         
     ]);
@@ -73,7 +83,7 @@ const section={
 }
 const container={
     backgroundColor:"white",
-    maxWidth: "960px",
+    maxWidth: "1150px",
     margin: "0px auto 20px auto",
     //display: "block",
    
@@ -94,12 +104,13 @@ const card1={
 }
 
 const card2={
-   backgroundColor: "lightgrey",
+//    backgroundColor: "lightgrey",
    cursor: "pointer",
    margin: "0px auto 60px auto",
    textAlign: "center",
+   border:"none",
    borderRadius: "100px 100px 0px 0px",
-   height: "250px",
+   height: "260px",
    width: "200px"
 }
 
@@ -109,6 +120,7 @@ const info={
     lineHeight: "1.8",
     fontSize: "15px",
     fontFamily: "Arial, Helvetica, sans-serif ",   
+    marginTop: "10px"
 }
  const image1={
     width: "200px",
