@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import ClubInfo from './Pages/ClubInfo';
+import ClubInfo from './Components/ClubInfo';
 import LatestEventComponent from './Components/LatestEvents';
 import Core from './Components/CoreTeam';
 import Footer from './Components/Footer';
@@ -19,7 +19,7 @@ import Achievements from './Components/Achievements';
 import TeamPage from './Pages/TeamPage';
 
 import member from "./data/core-team.json"
-import ClubComponent from './Components/ClubComponent';
+import ClubComponent from './Pages/ClubsPage';
 import EventPage from './Pages/EventPage';
 import Gallery from './Pages/Gallery';
 
