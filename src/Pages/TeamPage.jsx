@@ -10,7 +10,7 @@ function ClubMember({ member }) {
       >
         <div className="w-112 h-full flex items-center">
           <div style={{ marginBottom: "280px" }} className="w-96 h-96">
-            <img
+            <img key={0}
               src={member.image}
               alt={member.name}
               className="w-full h-full object-contain"
@@ -95,15 +95,15 @@ function TeamPage({ member }) {
       <p className="text-7xl font-bold mt-2">THE TEAM</p>
     </div>
     <div className="text-center flex justify-center bg-white p-10">
-      <a
+      <p
         onClick={toggleJSX}
         className={`cursor-pointer font-bold rounded-full px-4 py-2 w-80  ${
           showCurrentJSX ? "bg-red-500 text-white" : "bg-gray-200 text-red-800"
         }`}
       >
         Core Team
-      </a>
-      <a
+      </p>
+      <p
         onClick={toggleJSX}
         className={`cursor-pointer font-bold rounded-full px-4 py-2 w-80 ${
           !showCurrentJSX ? "bg-red-500  text-white" : "bg-gray-200 text-red-800"
@@ -111,7 +111,7 @@ function TeamPage({ member }) {
         style={{ marginLeft: "-30px" }}
       >
         Team Leads
-      </a>
+      </p>
     </div>
     {showCurrentJSX ? (
       member.map((member, index) => <ClubMember key={index} member={member} />)
